@@ -1,0 +1,49 @@
+account_name,contract_end_date,days_to_expiry,current_arr_eur,product_adoption_score,last_support_ticket_days_ago,open_support_tickets,nps_last_survey,price_increase_applied_pct,competitive_threat_flag,renewal_risk_score,cre_engagement_started,previous_renewal_outcome
+Albany Healthcare,2026-02-04,265,168291,0.56,170,4,5,1.9,True,0.92,False,Renewed Partial
+Bratislava Group,2026-02-04,265,1327897,0.33,26,1,18,10.4,False,0.94,False,Renewed Partial
+Lyon Industrial,2025-08-11,88,319115,0.64,133,5,46,8.0,False,0.87,False,Renewed Full
+Charlotte Banking,2025-11-08,177,861783,0.65,104,3,10,11.2,False,0.16,True,Renewed Full
+Bruges Digital NV,2025-06-29,45,317319,0.52,33,1,34,5.7,False,0.25,False,Renewed Full
+Birmingham Steel,2025-11-05,174,143739,0.88,160,0,64,9.6,True,0.6,True,Renewed Full
+Madrid Services SA,2026-05-25,375,3760563,0.79,36,1,10,10.3,False,0.78,False,New Customer
+Wuppertal Services AG,2025-09-29,137,112054,0.82,46,5,60,3.8,False,0.91,False,Renewed Full
+Budapest Commerce,2026-06-13,394,2066124,0.8,113,4,-8,9.9,False,0.38,True,Renewed Partial
+Freiburg Digital AG,2026-01-19,249,3095385,0.14,169,2,60,12.4,False,0.4,True,Renewed Full
+Cincinnati Pharma,2026-06-29,410,340208,0.76,157,2,20,5.4,False,0.17,True,Renewed Full
+Detroit Automotive,2025-07-14,60,372083,0.41,101,5,53,2.7,False,0.61,True,Renewed Partial
+Bruges Digital NV,2025-09-10,118,302785,0.81,17,1,34,7.2,True,0.86,False,Renewed Full
+Winterthur Engineering GmbH,2026-09-19,492,233382,0.25,35,0,6,11.8,False,0.83,True,Renewed Full
+Hamburg Maritime AG,2026-07-27,438,133231,0.71,112,0,-2,0.3,False,0.23,True,Renewed Full
+Albany Healthcare,2026-04-28,348,164910,0.11,39,4,30,10.3,False,0.79,False,Renewed Full
+Adler Automotive,2025-09-29,137,1724089,0.51,160,5,56,8.5,False,0.1,True,Renewed Full
+Nuremberg Logistics GmbH,2026-05-10,360,287184,0.88,148,0,2,3.1,False,0.61,False,Renewed Full
+Phoenix Distribution,2026-02-27,288,180660,0.46,85,0,-4,6.0,False,0.25,True,Renewed Full
+Munich Tech GmbH,2025-10-13,151,1403982,0.76,72,1,35,10.7,False,0.65,False,Renewed Full
+Braun-Schwartz AG,2026-05-03,353,109481,0.56,53,0,9,2.2,False,0.19,True,Renewed Full
+Winterthur Engineering GmbH,2026-02-09,270,213929,0.51,148,1,43,1.3,False,0.18,True,Renewed Full
+Wiesbaden Consulting AG,2026-08-02,444,239570,0.61,74,2,64,7.0,False,0.63,True,Renewed Full
+Bonn Technology AG,2025-07-10,56,3145090,0.16,29,4,-17,8.7,False,0.47,True,New Customer
+Denver Analytics,2026-01-22,252,3889494,0.7,121,2,14,7.1,True,0.63,True,New Customer
+Wuppertal Services AG,2025-11-14,183,127236,0.9,150,0,-14,9.6,False,0.54,False,Renewed Full
+Bochum Industrial GmbH,2026-04-05,325,278657,0.54,50,0,31,1.1,False,0.19,False,Renewed Full
+Düsseldorf Trade AG,2026-06-21,402,201047,0.39,81,1,35,8.8,False,0.6,True,Renewed Full
+Frankfurt Finance AG,2025-07-20,66,386025,0.61,130,1,29,5.7,False,0.33,False,Churned
+Bern Precision AG,2026-04-11,331,3453224,0.68,28,0,23,11.7,False,0.46,False,New Customer
+Raleigh Research,2026-02-25,286,103471,0.61,79,1,-10,10.9,False,0.18,True,New Customer
+Bern Healthcare AG,2026-08-05,447,171254,0.56,150,0,-11,11.0,False,0.38,True,Renewed Full
+Leipzig Industrial GmbH,2026-06-04,385,249069,0.45,70,2,44,0.2,False,0.35,False,Churned
+Berg Medizintechnik,2025-06-24,40,1159809,0.83,81,1,38,9.1,False,0.54,True,New Customer
+Wuppertal Services AG,2026-07-20,431,109480,0.41,159,0,-7,5.2,True,0.32,True,Renewed Partial
+Braun-Schwartz AG,2026-01-22,252,110656,0.82,159,2,18,7.4,False,0.3,True,Renewed Partial
+Melbourne Fabrications,2025-12-20,219,3604797,0.35,39,0,-6,9.8,False,0.2,True,Renewed Full
+Essen Energy AG,2025-08-14,91,3073068,0.56,165,4,48,2.3,False,0.35,True,Renewed Full
+Cincinnati Pharma,2025-08-25,102,344790,0.74,118,5,40,0.2,False,0.23,True,Churned
+Karlsruhe Research GmbH,2025-12-18,217,177545,0.3,166,4,35,11.8,False,0.51,True,Renewed Full
+Berg Medizintechnik,2025-10-27,165,1148099,0.54,136,2,58,11.2,False,0.58,True,Renewed Full
+Memphis Transport,2025-06-10,26,1050874,0.49,21,0,62,5.0,False,0.37,False,Renewed Full
+Raleigh Research,2026-05-24,374,99572,0.4,54,1,36,2.8,False,0.6,True,Renewed Partial
+Thun Innovations AG,2026-08-06,448,2989182,0.58,80,2,29,11.5,False,0.47,False,Renewed Partial
+Madrid Services SA,2026-07-15,426,4230810,0.4,58,1,-9,8.0,True,0.21,True,Renewed Full
+Stuttgart Engineering GmbH,2025-12-30,229,3838971,0.6,65,0,-14,12.0,False,0.24,True,Renewed Full
+Braun-Schwartz AG,2026-08-15,457,114975,0.32,21,1,-6,7.4,True,0.22,True,Renewed Full
+Leipzig Industrial GmbH,2025-11-29,198,258941,0.76,147,0,-1,10.2,False,0.43,True,Renewed Full

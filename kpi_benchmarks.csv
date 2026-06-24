@@ -1,0 +1,19 @@
+metric_name,nexlara_current,nexlara_target,industry_benchmark_median,industry_benchmark_top_quartile,unit,source_note
+Quote-to-Approval Cycle Time,9.2,4.0,7.1,3.8,days,Internal GCF Operations reporting FY2024; industry data from SiriusDecisions Revenue Operations Benchmark 2024
+First-Pass Approval Rate,54.0,80.0,68.0,87.0,%,Internal GCF Operations reporting FY2024; industry data from Gartner Sales Technology Benchmark 2024
+Time-to-Quote from Opportunity Creation,3.8,1.5,2.9,1.2,days,Internal GCF Operations reporting FY2024
+Auto-Approval Rate,12.0,35.0,22.0,41.0,%,Internal GCF Operations reporting FY2024; top-quartile companies leverage ML-gated auto-approval workflows
+Median Re-submissions per Quote,1.8,0.5,1.1,0.3,count,Internal GCF Operations reporting FY2024
+Number of Approvals per Quote Revision,Deduce from data,Participant-defined,1.3,1.0,count,Derive from approval_events.csv joined with quote_header.csv; industry data from Forrester Revenue Operations Survey 2024
+Deal Approval-related Renewal Churn (ACV),4.1,1.0,2.3,0.8,%,"Management estimate combining delayed close, competitive loss during approval, and partial renewal downgrades; not externally audited"
+AE Time Spent on Quote Administration,6.4,2.5,4.2,1.9,hours per deal,Internal time-motion study FY2024 (n=38 AEs across DACH and NA); industry data from McKinsey B2B Sales Productivity Report 2024
+FBS Cost per Quote,380.0,150.0,240.0,110.0,EUR,"Internal GCF Operations cost allocation model FY2024; includes blended FBS staff cost, system overhead, and tooling"
+Approval Bypass Rate,3.4,1.0,1.8,0.6,% of total deals,Reported bypass rate from GCF Operations log; actual rate estimated 2-3x higher due to unreported offline approvals
+Quarter-End Approval Backlog,38.0,20.0,29.0,18.0,% of deals closing in final 3 days of quarter,Internal approval_events.csv analysis; industry data from Gartner Sales Operations Benchmark 2024
+Revenue from Subscription and Consumption Licenses,20.0,80.0,54.0,78.0,% of total software revenue,Internal finance reporting FY2024; target is Board-approved 5-year strategic goal; industry data from Software Equity Group 2024 M&A Report
+ASC 606-Compliant Quotes at Submission,Not tracked,100.0,71.0,95.0,%,Nexlara does not currently track this metric; gap identified in FY2024 external audit. Industry data from Deloitte Revenue Recognition Readiness Survey 2024
+Opportunity Win Rate (All Motions),Deduce from data,Participant-defined,24.0,38.0,%,Derive from opportunity_pipeline.csv (Closed Won / total Closed); industry data from CSO Insights Win Rate Benchmark 2024
+Number of Quote Revisions per Opportunity,Deduce from data,Participant-defined,1.4,0.8,count,Derive from quote_header.csv grouped by opp_id; industry data from Forrester Revenue Operations Survey 2024
+Average Deal Value — Net New,Deduce from data,Participant-defined,185000.0,340000.0,EUR ACV,Derive from bom_line_items.csv and opportunity_pipeline.csv; industry data from SiriusDecisions Benchmark 2024
+Average Deal Value — Renewal,Deduce from data,Participant-defined,142000.0,265000.0,EUR ACV,Derive from bom_line_items.csv and opportunity_pipeline.csv; industry data from SiriusDecisions Benchmark 2024
+ARR at Risk from Approval-Related Delays (Estimated),25000000.0,5000000.0,14000000.0,5000000.0,EUR,"Management estimate; methodology combines stalled deals in Approval stage, lost deals where competitor closed during delay, and renewal downgrades. Not externally audited."

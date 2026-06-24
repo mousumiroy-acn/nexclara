@@ -1,0 +1,356 @@
+bom_id,quote_id,sku_id,product_name,product_family,unit_metric,quantity,list_price_per_unit_eur,lep_per_unit_eur,net_price_per_unit_eur,discount_pct,is_lep_compliant,is_auto_attached,auto_attach_removal_requested,phasing_applied,year1_acv_eur,total_acv_eur,license_model,overage_rate_per_unit_eur,ssp_documented,product_lifecycle_status,sku_generation
+BOM-00001,Q-2025-00001,NX-BDL-RISE-S,Nexlara RISE Bundle Small,ERP,Tenants,1,24000.0,12480.0,19071.4292,20.54,True,False,False,False,19071.43,19071.43,Subscription,,True,Active,Current
+BOM-00002,Q-2025-00001,NX-ERP-PM-TNT,Nexlara ERP Project Management,ERP,Tenants,1,9500.0,4750.0,7273.6417,23.44,True,False,False,False,7273.64,7273.64,Subscription,,True,Active,Current
+BOM-00003,Q-2025-00001,NX-ERP-HR-TNT,Nexlara ERP HR Core,ERP,Tenants,1,12000.0,6000.0,9660.3629,19.5,True,False,False,False,9660.36,9660.36,Subscription,,True,Active,Current
+BOM-00004,Q-2025-00001,NX-BDL-RISE-L,Nexlara RISE Bundle Large,ERP,Tenants,1,92000.0,47840.0,75703.7255,17.71,True,False,False,False,75703.73,75703.73,Subscription,,True,Active,Current
+BOM-00005,Q-2025-00001,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5473.6024,5.63,True,False,False,False,5473.6,5473.6,Subscription,,True,Active,Current
+BOM-00006,Q-2025-00001,NX-AI-CAP-STD,Nexlara AI Capacity Standard,AI Add-on,Consumption Units,50000,1.8,1.17,1.5586,13.41,True,True,False,False,77930.0,77930.0,Consumption,0.2697,True,Active,Current
+BOM-00007,Q-2025-00001,NX-AN-DW-LEG,Nexlara Analytics Data Warehouse (Leg),Analytics,Tenants,1,18000.0,10440.0,15483.4433,13.98,True,False,False,False,15483.44,15483.44,Perpetual,,True,Deprecated,Legacy
+BOM-00008,Q-2025-00002,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,3297.3528,43.15,False,False,False,False,3297.35,3297.35,Subscription,,True,Active,Current
+BOM-00009,Q-2025-00002,NX-BDL-HCM-S,Nexlara HCM Bundle Small,HCM,Users,250,68.0,37.4,60.1695,11.52,True,False,False,False,15042.38,15042.38,Subscription,,True,Active,Current
+BOM-00010,Q-2025-00002,NX-BDL-HCM-M,Nexlara HCM Bundle Medium,HCM,Users,5000,58.0,31.9,48.6369,16.14,True,False,False,False,243184.5,243184.5,Subscription,,True,Active,Current
+BOM-00011,Q-2025-00002,NX-AI-DOC-USR,Nexlara AI Document Intelligence,AI Add-on,Users,3000,16.0,10.4,14.2781,10.76,True,True,True,False,42834.3,42834.3,Subscription,,True,Active,Current
+BOM-00012,Q-2025-00002,NX-AN-FULL-PP,Nexlara Analytics Full Suite (Perp.),Analytics,Users,1000,88.0,52.8,76.5976,12.96,True,False,False,False,76597.6,76597.6,Perpetual,,True,Deprecated,Legacy
+BOM-00013,Q-2025-00003,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5292.0576,8.76,True,False,False,False,5292.06,10584.12,Subscription,,True,Active,Current
+BOM-00014,Q-2025-00003,NX-HCM-MKTPL-USR,Nexlara HCM Marketplace Connect,HCM,Users,2000,20.0,11.0,10.1834,49.08,False,False,False,False,20366.8,40733.6,Subscription,,True,Active,Current
+BOM-00015,Q-2025-00004,NX-AN-ML-USR,Nexlara Analytics ML Platform,Analytics,Users,3000,72.0,39.6,55.1337,23.43,True,False,False,True,82700.55,330802.2,Subscription+Overage,6.9144,False,Active,Current
+BOM-00016,Q-2025-00004,NX-AN-ESG-USR,Nexlara Analytics ESG Reporting,Analytics,Users,50,38.0,20.9,34.3568,9.59,True,False,False,True,858.92,3435.68,Subscription,,True,Active,Current
+BOM-00017,Q-2025-00004,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2063.8956,14.0,True,False,False,True,1031.95,4127.79,Subscription,,True,Active,Current
+BOM-00018,Q-2025-00004,NX-AI-GEN-USR,Nexlara AI Generative Assistant,AI Add-on,Users,150,22.0,14.3,19.0031,13.62,True,True,True,False,2850.47,5700.93,Subscription+Overage,2.1265,False,Active,Current
+BOM-00019,Q-2025-00005,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,3876.0201,33.17,False,False,False,True,1938.01,11628.06,Subscription,,True,Active,Current
+BOM-00020,Q-2025-00005,NX-HCM-PAY-EMP,Nexlara HCM Payroll Connect,HCM,Employees,150,22.0,12.1,19.3285,12.14,True,False,False,True,1449.64,8697.82,Subscription,,True,Active,Current
+BOM-00021,Q-2025-00005,NX-ERP-FI-PP,Nexlara ERP Finance (Perpetual),ERP,Tenants,1,45000.0,26100.0,37220.7454,17.29,True,False,False,True,18610.37,111662.24,Perpetual,,True,Sunset Notice,Legacy
+BOM-00022,Q-2025-00006,NX-HCM-INTG-CONS,Nexlara HCM Integration Credits,HCM,Transactions,1000000,0.15,0.09,0.1236,17.59,True,False,False,False,123600.0,123600.0,Consumption,0.0197,False,Active,Current
+BOM-00023,Q-2025-00006,NX-HCM-OB-USR,Nexlara HCM Onboarding,HCM,Users,500,32.0,17.6,20.582,35.68,True,False,False,False,10291.0,10291.0,Subscription,,True,Active,Current
+BOM-00024,Q-2025-00006,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2052.0248,14.5,True,False,False,False,2052.02,2052.02,Subscription,,True,Active,Current
+BOM-00025,Q-2025-00006,NX-AI-CAP-ENT,Nexlara AI Capacity Enterprise,AI Add-on,Consumption Units,10000,1.2,0.78,1.0376,13.53,True,True,False,False,10376.0,10376.0,Consumption,0.1375,True,Active,Current
+BOM-00026,Q-2025-00006,NX-HCM-EC-LEG,Nexlara HCM Employee Central (Legacy),HCM,Users,50,70.0,42.0,37.1161,46.98,False,False,False,False,1855.81,1855.81,Perpetual,,True,Deprecated,Legacy
+BOM-00027,Q-2025-00007,NX-HCM-LM-USR,Nexlara HCM Learning Management,HCM,Users,1500,28.0,15.4,24.3246,13.13,True,False,False,False,36486.9,72973.8,Subscription,,True,Active,Current
+BOM-00028,Q-2025-00007,NX-HCM-EC-USR,Nexlara HCM Employee Central,HCM,Users,5000,85.0,46.75,58.6566,30.99,True,False,False,True,146641.5,586566.0,Subscription,,True,Active,Current
+BOM-00029,Q-2025-00007,NX-BDL-HCM-L,Nexlara HCM Bundle Large,HCM,Users,5000,48.0,26.4,23.0685,51.94,False,False,False,True,57671.25,230685.0,Subscription,,True,Active,Current
+BOM-00030,Q-2025-00007,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5278.9354,8.98,True,False,False,False,5278.94,10557.87,Subscription,,True,Active,Current
+BOM-00031,Q-2025-00007,NX-AI-JOULE-USR,Nexlara AI Joule Assistant,AI Add-on,Users,300,14.0,9.1,13.2965,5.02,True,True,False,True,1994.47,7977.9,Subscription,,True,Active,Current
+BOM-00032,Q-2025-00008,NX-ERP-SC-TNT,Nexlara ERP Supply Chain,ERP,Tenants,1,14000.0,7000.0,10552.6801,24.62,True,False,False,False,10552.68,21105.36,Subscription,,True,Active,Current
+BOM-00033,Q-2025-00008,NX-BDL-RISE-M,Nexlara RISE Bundle Medium,ERP,Tenants,1,48000.0,24960.0,44817.5393,6.63,True,False,False,True,22408.77,89635.08,Subscription,,True,Active,Current
+BOM-00034,Q-2025-00008,NX-ERP-HR-TNT,Nexlara ERP HR Core,ERP,Tenants,1,12000.0,6000.0,5413.2464,54.89,False,False,False,True,2706.62,10826.49,Subscription,,True,Active,Current
+BOM-00035,Q-2025-00008,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,4866.8664,16.09,True,False,False,True,2433.43,9733.73,Subscription,,True,Active,Current
+BOM-00036,Q-2025-00008,NX-ERP-MM-TNT,Nexlara ERP Manufacturing,ERP,Tenants,1,16000.0,8000.0,13899.6432,13.13,True,False,False,False,13899.64,27799.29,Subscription,,True,Active,Current
+BOM-00037,Q-2025-00008,NX-AI-CAP-ENT,Nexlara AI Capacity Enterprise,AI Add-on,Consumption Units,1000000,1.2,0.78,1.0734,10.55,True,True,False,False,1073400.0,2146800.0,Consumption,0.1375,False,Active,Current
+BOM-00038,Q-2025-00009,NX-ERP-BI-TNT,Nexlara ERP Business Intelligence,ERP,Tenants,1,11000.0,5720.0,7712.3667,29.89,True,False,False,True,3856.18,23137.1,Subscription+Overage,1601.224,False,Active,Current
+BOM-00039,Q-2025-00009,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2246.9039,6.38,True,False,False,False,2246.9,6740.71,Subscription,,True,Active,Current
+BOM-00040,Q-2025-00009,NX-AI-JOULE-USR,Nexlara AI Joule Assistant,AI Add-on,Users,3000,14.0,9.1,8.6492,38.22,False,True,False,True,12973.8,77842.8,Subscription,,True,Active,Current
+BOM-00041,Q-2025-00010,NX-BDL-RISE-S,Nexlara RISE Bundle Small,ERP,Tenants,1,24000.0,12480.0,19797.8497,17.51,True,False,False,True,9898.92,39595.7,Subscription,,True,Active,Current
+BOM-00042,Q-2025-00010,NX-ERP-SC-TNT,Nexlara ERP Supply Chain,ERP,Tenants,1,14000.0,7000.0,12900.5232,7.85,True,False,False,True,6450.26,25801.05,Subscription,,True,Active,Current
+BOM-00043,Q-2025-00010,NX-ERP-API-CONS,Nexlara ERP API Credits,ERP,Transactions,10000,0.08,0.048,0.0647,19.12,True,False,False,True,323.5,1294.0,Consumption,0.0088,True,Active,Current
+BOM-00044,Q-2025-00010,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5261.7161,9.28,True,False,False,False,5261.72,10523.43,Subscription,,True,Active,Current
+BOM-00045,Q-2025-00010,NX-ERP-MM-TNT,Nexlara ERP Manufacturing,ERP,Tenants,1,16000.0,8000.0,12796.1673,20.02,True,False,False,False,12796.17,25592.33,Subscription,,True,Active,Current
+BOM-00046,Q-2025-00010,NX-ERP-FULL-PP,Nexlara ERP Full Suite (Perpetual),ERP,Tenants,1,95000.0,55100.0,53030.9561,44.18,False,False,False,True,26515.48,106061.91,Perpetual,,True,Sunset Notice,Legacy
+BOM-00047,Q-2025-00011,NX-ERP-PM-TNT,Nexlara ERP Project Management,ERP,Tenants,1,9500.0,4750.0,7705.3038,18.89,True,False,False,True,3852.65,15410.61,Subscription,,True,Active,Current
+BOM-00048,Q-2025-00011,NX-ERP-FI-TNT,Nexlara ERP Finance Core,ERP,Tenants,1,18000.0,9000.0,15316.126,14.91,True,False,False,True,7658.06,30632.25,Subscription,,True,Active,Current
+BOM-00049,Q-2025-00011,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2156.9008,10.13,True,False,False,False,2156.9,4313.8,Subscription,,True,Active,Current
+BOM-00050,Q-2025-00011,NX-ERP-CX-TNT,Nexlara ERP Customer Experience,ERP,Tenants,1,7500.0,3900.0,5931.1492,20.92,True,False,False,True,2965.57,11862.3,Subscription,,True,Active,Current
+BOM-00051,Q-2025-00011,NX-AI-GEN-USR,Nexlara AI Generative Assistant,AI Add-on,Users,1000,22.0,14.3,19.6881,10.51,True,True,False,True,9844.05,39376.2,Subscription+Overage,2.1265,True,Active,Current
+BOM-00052,Q-2025-00012,NX-BDL-HCM-S,Nexlara HCM Bundle Small,HCM,Users,150,68.0,37.4,64.0648,5.79,True,False,False,True,4804.86,19219.44,Subscription,,True,Active,Current
+BOM-00053,Q-2025-00012,NX-HCM-WELL-USR,Nexlara HCM Wellbeing Suite,HCM,Users,5000,14.0,7.7,7.5343,46.18,False,False,False,True,18835.75,75343.0,Subscription,,True,Active,Current
+BOM-00054,Q-2025-00012,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2068.3516,13.82,True,False,False,False,2068.35,4136.7,Subscription,,True,Active,Current
+BOM-00055,Q-2025-00012,NX-HCM-PAY-EMP,Nexlara HCM Payroll Connect,HCM,Employees,100,22.0,12.1,19.3732,11.94,True,False,False,True,968.66,3874.64,Subscription,,True,Active,Current
+BOM-00056,Q-2025-00012,NX-HCM-INTG-CONS,Nexlara HCM Integration Credits,HCM,Transactions,1000000,0.15,0.09,0.1411,5.95,True,False,False,True,70550.0,282200.0,Consumption,0.0197,True,Active,Current
+BOM-00057,Q-2025-00012,NX-AI-GEN-USR,Nexlara AI Generative Assistant,AI Add-on,Users,5000,22.0,14.3,19.9173,9.47,True,True,True,True,49793.25,199173.0,Subscription+Overage,2.1265,False,Active,Current
+BOM-00058,Q-2025-00013,NX-ERP-PM-TNT,Nexlara ERP Project Management,ERP,Tenants,1,9500.0,4750.0,7582.9486,20.18,True,False,False,True,3791.47,15165.9,Subscription,,True,Active,Current
+BOM-00059,Q-2025-00013,NX-ERP-CONS2-TXN,Nexlara ERP Flex Credits,ERP,Transactions,10000,0.18,0.108,0.1639,8.95,True,False,False,True,819.5,3278.0,Consumption,0.0242,False,Active,Current
+BOM-00060,Q-2025-00013,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2026.6607,15.56,True,False,False,True,1013.33,4053.32,Subscription,,True,Active,Current
+BOM-00061,Q-2025-00013,NX-ERP-MM-TNT,Nexlara ERP Manufacturing,ERP,Tenants,1,16000.0,8000.0,12240.4815,23.5,True,False,False,False,12240.48,24480.96,Subscription,,True,Active,Current
+BOM-00062,Q-2025-00014,NX-HCM-CT-USR,Nexlara HCM Compensation & Total Rwds,HCM,Users,1000,36.0,19.8,25.5245,29.1,True,False,False,True,12762.25,76573.5,Subscription,,True,Active,Current
+BOM-00063,Q-2025-00014,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2020.0292,15.83,True,False,False,True,1010.01,6060.09,Subscription,,True,Active,Current
+BOM-00064,Q-2025-00015,NX-HCM-SP-USR,Nexlara HCM Succession Planning,HCM,Users,150,24.0,13.2,18.0477,24.8,True,False,False,False,2707.15,8121.46,Subscription,,True,Active,Current
+BOM-00065,Q-2025-00015,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5100.6561,12.06,True,False,False,False,5100.66,15301.97,Subscription,,True,Active,Current
+BOM-00066,Q-2025-00015,NX-BDL-HCM-M,Nexlara HCM Bundle Medium,HCM,Users,150,58.0,31.9,48.955,15.59,True,False,False,True,3671.62,22029.75,Subscription,,True,Active,Current
+BOM-00067,Q-2025-00016,NX-ERP-CONS2-TXN,Nexlara ERP Flex Credits,ERP,Transactions,500000,0.18,0.108,0.1678,6.77,True,False,False,True,41950.0,167800.0,Consumption,0.0242,False,Active,Current
+BOM-00068,Q-2025-00016,NX-ERP-SC-TNT,Nexlara ERP Supply Chain,ERP,Tenants,1,14000.0,7000.0,11940.5043,14.71,True,False,False,False,11940.5,23881.01,Subscription,,True,Active,Current
+BOM-00069,Q-2025-00016,NX-ERP-BI-TNT,Nexlara ERP Business Intelligence,ERP,Tenants,1,11000.0,5720.0,7716.78,29.85,True,False,False,False,7716.78,15433.56,Subscription+Overage,1601.224,True,Active,Current
+BOM-00070,Q-2025-00016,NX-ERP-HR-TNT,Nexlara ERP HR Core,ERP,Tenants,1,12000.0,6000.0,5026.459,58.11,False,False,False,False,5026.46,10052.92,Subscription,,True,Active,Current
+BOM-00071,Q-2025-00016,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2183.2672,9.03,True,False,False,False,2183.27,4366.53,Subscription,,True,Active,Current
+BOM-00072,Q-2025-00017,NX-HCM-SP-USR,Nexlara HCM Succession Planning,HCM,Users,750,24.0,13.2,17.4997,27.08,True,False,False,False,13124.77,39374.32,Subscription,,True,Active,Current
+BOM-00073,Q-2025-00017,NX-HCM-WF-USR,Nexlara HCM Workforce Analytics,HCM,Users,200,42.0,23.1,21.9967,47.63,False,False,False,True,2199.67,13198.02,Subscription+Overage,3.727,False,Active,Current
+BOM-00074,Q-2025-00017,NX-BDL-HCM-L,Nexlara HCM Bundle Large,HCM,Users,100,48.0,26.4,44.6811,6.91,True,False,False,True,2234.05,13404.33,Subscription,,True,Active,Current
+BOM-00075,Q-2025-00017,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5021.7659,13.42,True,False,False,False,5021.77,15065.3,Subscription,,True,Active,Current
+BOM-00076,Q-2025-00017,NX-BDL-HCM-M,Nexlara HCM Bundle Medium,HCM,Users,100,58.0,31.9,49.6117,14.46,True,False,False,False,4961.17,14883.51,Subscription,,True,Active,Current
+BOM-00077,Q-2025-00017,NX-AI-PRED-USR,Nexlara AI Predictive Analytics,AI Add-on,Users,3000,18.0,11.7,17.0052,5.53,True,True,False,False,51015.6,153046.8,Subscription+Overage,1.52,False,Active,Current
+BOM-00078,Q-2025-00018,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5333.0684,8.05,True,False,False,True,2666.53,10666.14,Subscription,,True,Active,Current
+BOM-00079,Q-2025-00018,NX-AN-ESG-USR,Nexlara Analytics ESG Reporting,Analytics,Users,50,38.0,20.9,31.9195,16.0,True,False,False,True,797.99,3191.95,Subscription,,True,Active,Current
+BOM-00080,Q-2025-00018,NX-AN-DW-TNT,Nexlara Analytics Data Warehouse,Analytics,Tenants,1,2200.0,1210.0,987.0855,55.13,False,False,False,False,987.09,1974.17,Consumption,276.9376,True,Active,Current
+BOM-00081,Q-2025-00019,NX-HCM-EC-USR,Nexlara HCM Employee Central,HCM,Users,250,85.0,46.75,58.4006,31.29,True,False,False,False,14600.15,43800.45,Subscription,,True,Active,Current
+BOM-00082,Q-2025-00019,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2206.8588,8.05,True,False,False,True,1103.43,6620.58,Subscription,,True,Active,Current
+BOM-00083,Q-2025-00019,NX-AI-DOC-USR,Nexlara AI Document Intelligence,AI Add-on,Users,300,16.0,10.4,13.5707,15.18,True,True,False,True,2035.61,12213.63,Subscription,,True,Active,Current
+BOM-00084,Q-2025-00019,NX-HCM-LM-LEG,Nexlara HCM Learning (Legacy),HCM,Users,750,22.0,13.2,19.5962,10.93,True,False,False,True,7348.57,44091.45,Perpetual,,True,Sunset Notice,Legacy
+BOM-00085,Q-2025-00020,NX-HCM-WELL-USR,Nexlara HCM Wellbeing Suite,HCM,Users,200,14.0,7.7,10.7036,23.55,True,False,False,False,2140.72,4281.44,Subscription,,True,Active,Current
+BOM-00086,Q-2025-00020,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2164.4575,9.81,True,False,False,False,2164.46,4328.91,Subscription,,True,Active,Current
+BOM-00087,Q-2025-00021,NX-HCM-LM-USR,Nexlara HCM Learning Management,HCM,Users,5000,28.0,15.4,21.2395,24.14,True,False,False,True,53098.75,212395.0,Subscription,,True,Active,Current
+BOM-00088,Q-2025-00021,NX-HCM-WF-USR,Nexlara HCM Workforce Analytics,HCM,Users,5000,42.0,23.1,34.6193,17.57,True,False,False,True,86548.25,346193.0,Subscription+Overage,3.727,False,Active,Current
+BOM-00089,Q-2025-00021,NX-HCM-BENCH-USR,Nexlara HCM Benchmarking,HCM,Users,200,16.0,8.8,14.6347,8.53,True,False,False,False,2926.94,5853.88,Subscription+Overage,1.8486,False,Active,Current
+BOM-00090,Q-2025-00021,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2004.7537,16.47,True,False,False,False,2004.75,4009.51,Subscription,,True,Active,Current
+BOM-00091,Q-2025-00021,NX-BDL-HCM-M,Nexlara HCM Bundle Medium,HCM,Users,250,58.0,31.9,49.9073,13.95,True,False,False,False,12476.83,24953.65,Subscription,,True,Active,Current
+BOM-00092,Q-2025-00022,NX-HCM-DEI-USR,Nexlara HCM DEI Dashboard,HCM,Users,150,12.0,6.6,9.1223,23.98,True,False,False,False,1368.34,1368.34,Subscription,,True,Active,Current
+BOM-00093,Q-2025-00022,NX-HCM-TIME-USR,Nexlara HCM Time & Attendance,HCM,Employees,100,18.0,9.9,11.5227,35.99,True,False,False,False,1152.27,1152.27,Subscription,,True,Active,Current
+BOM-00094,Q-2025-00022,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5442.6394,6.16,True,False,False,False,5442.64,5442.64,Subscription,,True,Active,Current
+BOM-00095,Q-2025-00022,NX-HCM-PAY-EMP,Nexlara HCM Payroll Connect,HCM,Employees,1000,22.0,12.1,15.4784,29.64,True,False,False,False,15478.4,15478.4,Subscription,,True,Active,Current
+BOM-00096,Q-2025-00022,NX-HCM-INTG-CONS,Nexlara HCM Integration Credits,HCM,Transactions,100000,0.15,0.09,0.1327,11.51,True,False,False,False,13270.0,13270.0,Consumption,0.0197,True,Active,Current
+BOM-00097,Q-2025-00022,NX-ERP-FULL-PP,Nexlara ERP Full Suite (Perpetual),ERP,Tenants,1,95000.0,55100.0,89723.2327,5.55,True,False,False,False,89723.23,89723.23,Perpetual,,True,Sunset Notice,Legacy
+BOM-00098,Q-2025-00022,NX-HCM-LM-LEG,Nexlara HCM Learning (Legacy),HCM,Users,150,22.0,13.2,17.8397,18.91,True,False,False,False,2675.95,2675.95,Perpetual,,True,Sunset Notice,Legacy
+BOM-00099,Q-2025-00023,NX-ERP-FI-TNT,Nexlara ERP Finance Core,ERP,Tenants,1,18000.0,9000.0,16998.0262,5.57,True,False,False,True,8499.01,50994.08,Subscription,,True,Active,Current
+BOM-00100,Q-2025-00023,NX-BDL-RISE-S,Nexlara RISE Bundle Small,ERP,Tenants,1,24000.0,12480.0,21286.1281,11.31,True,False,False,False,21286.13,63858.38,Subscription,,True,Active,Current
+BOM-00101,Q-2025-00023,NX-BDL-RISE-M,Nexlara RISE Bundle Medium,ERP,Tenants,1,48000.0,24960.0,44694.8285,6.89,True,False,False,True,22347.41,134084.49,Subscription,,True,Active,Current
+BOM-00102,Q-2025-00023,NX-ERP-PM-TNT,Nexlara ERP Project Management,ERP,Tenants,1,9500.0,4750.0,6433.5763,32.28,True,False,False,False,6433.58,19300.73,Subscription,,True,Active,Current
+BOM-00103,Q-2025-00023,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2205.6401,8.1,True,False,False,False,2205.64,6616.92,Subscription,,True,Active,Current
+BOM-00104,Q-2025-00024,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5166.3151,10.93,True,False,False,False,5166.32,5166.32,Subscription,,True,Active,Current
+BOM-00105,Q-2025-00024,NX-HCM-INTG-CONS,Nexlara HCM Integration Credits,HCM,Transactions,100000,0.15,0.09,0.1244,17.06,True,False,False,False,12440.0,12440.0,Consumption,0.0197,True,Active,Current
+BOM-00106,Q-2025-00024,NX-BDL-HCM-M,Nexlara HCM Bundle Medium,HCM,Users,1000,58.0,31.9,26.6268,54.09,False,False,False,False,26626.8,26626.8,Subscription,,True,Active,Current
+BOM-00107,Q-2025-00025,NX-ERP-CX-TNT,Nexlara ERP Customer Experience,ERP,Tenants,1,7500.0,3900.0,5531.5153,26.25,True,False,False,False,5531.52,16594.55,Subscription,,True,Active,Current
+BOM-00108,Q-2025-00025,NX-ERP-SC-TNT,Nexlara ERP Supply Chain,ERP,Tenants,1,14000.0,7000.0,6069.3081,56.65,False,False,False,True,3034.65,18207.92,Subscription,,True,Active,Current
+BOM-00109,Q-2025-00025,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2230.9869,7.04,True,False,False,False,2230.99,6692.96,Subscription,,True,Active,Current
+BOM-00110,Q-2025-00025,NX-AI-JOULE-USR,Nexlara AI Joule Assistant,AI Add-on,Users,1500,14.0,9.1,11.9878,14.37,True,True,False,False,17981.7,53945.1,Subscription,,True,Active,Current
+BOM-00111,Q-2025-00026,NX-HCM-EC-USR,Nexlara HCM Employee Central,HCM,Users,200,85.0,46.75,62.3159,26.69,True,False,False,False,12463.18,12463.18,Subscription,,True,Active,Current
+BOM-00112,Q-2025-00026,NX-BDL-HCM-S,Nexlara HCM Bundle Small,HCM,Users,2000,68.0,37.4,60.3546,11.24,True,False,False,False,120709.2,120709.2,Subscription,,True,Active,Current
+BOM-00113,Q-2025-00026,NX-HCM-MKTPL-USR,Nexlara HCM Marketplace Connect,HCM,Users,2000,20.0,11.0,16.7068,16.47,True,False,False,False,33413.6,33413.6,Subscription,,True,Active,Current
+BOM-00114,Q-2025-00026,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2274.4655,5.23,True,False,False,False,2274.47,2274.47,Subscription,,True,Active,Current
+BOM-00115,Q-2025-00026,NX-AI-GEN-USR,Nexlara AI Generative Assistant,AI Add-on,Users,5000,22.0,14.3,18.4531,16.12,True,True,False,False,92265.5,92265.5,Subscription+Overage,2.1265,False,Active,Current
+BOM-00116,Q-2025-00027,NX-AN-DW-TNT,Nexlara Analytics Data Warehouse,Analytics,Tenants,1,2200.0,1210.0,1687.3626,23.3,True,False,False,False,1687.36,1687.36,Consumption,276.9376,False,Active,Current
+BOM-00117,Q-2025-00027,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2032.8467,15.3,True,False,False,False,2032.85,2032.85,Subscription,,True,Active,Current
+BOM-00118,Q-2025-00027,NX-AI-TOKN-CONS,Nexlara AI Token Credits,AI Add-on,Consumption Units,100000,0.004,0.0026,0.0036,10.28,True,True,False,False,360.0,360.0,Consumption,0.0004,False,Active,Current
+BOM-00119,Q-2025-00028,NX-BDL-RISE-M,Nexlara RISE Bundle Medium,ERP,Tenants,1,48000.0,24960.0,39292.4485,18.14,True,False,False,False,39292.45,39292.45,Subscription,,True,Active,Current
+BOM-00120,Q-2025-00028,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2147.0402,10.54,True,False,False,False,2147.04,2147.04,Subscription,,True,Active,Current
+BOM-00121,Q-2025-00029,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5409.9972,6.72,True,False,False,False,5410.0,16229.99,Subscription,,True,Active,Current
+BOM-00122,Q-2025-00029,NX-HCM-PAY-EMP,Nexlara HCM Payroll Connect,HCM,Employees,50,22.0,12.1,15.9386,27.55,True,False,False,False,796.93,2390.79,Subscription,,True,Active,Current
+BOM-00123,Q-2025-00029,NX-HCM-MKTPL-USR,Nexlara HCM Marketplace Connect,HCM,Users,1500,20.0,11.0,16.737,16.31,True,False,False,True,12552.75,75316.5,Subscription,,True,Active,Current
+BOM-00124,Q-2025-00029,NX-HCM-DEI-USR,Nexlara HCM DEI Dashboard,HCM,Users,150,12.0,6.6,8.5004,29.16,True,False,False,False,1275.06,3825.18,Subscription,,True,Active,Current
+BOM-00125,Q-2025-00030,NX-ERP-FI-TNT,Nexlara ERP Finance Core,ERP,Tenants,1,18000.0,9000.0,15370.4381,14.61,True,False,False,False,15370.44,15370.44,Subscription,,True,Active,Current
+BOM-00126,Q-2025-00030,NX-BDL-RISE-M,Nexlara RISE Bundle Medium,ERP,Tenants,1,48000.0,24960.0,39025.5886,18.7,True,False,False,False,39025.59,39025.59,Subscription,,True,Active,Current
+BOM-00127,Q-2025-00030,NX-ERP-CONS-TXN,Nexlara ERP Consumption Credits,ERP,Transactions,1000000,0.12,0.072,0.0996,17.03,True,False,False,False,99600.0,99600.0,Consumption,0.0135,True,Active,Current
+BOM-00128,Q-2025-00030,NX-BDL-RISE-L,Nexlara RISE Bundle Large,ERP,Tenants,1,92000.0,47840.0,73221.9255,20.41,True,False,False,False,73221.93,73221.93,Subscription,,True,Active,Current
+BOM-00129,Q-2025-00030,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5061.8637,12.73,True,False,False,False,5061.86,5061.86,Subscription,,True,Active,Current
+BOM-00130,Q-2025-00031,NX-AN-ML-USR,Nexlara Analytics ML Platform,Analytics,Users,5000,72.0,39.6,50.0015,30.55,True,False,False,False,250007.5,750022.5,Subscription+Overage,6.9144,True,Active,Current
+BOM-00131,Q-2025-00031,NX-AN-RPT-USR,Nexlara Analytics Reporting Suite,Analytics,Users,2000,22.0,12.1,20.2419,7.99,True,False,False,True,20241.9,121451.4,Subscription,,True,Active,Current
+BOM-00132,Q-2025-00031,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2074.5981,13.56,True,False,False,True,1037.3,6223.79,Subscription,,True,Active,Current
+BOM-00133,Q-2025-00031,NX-AI-DOC-USR,Nexlara AI Document Intelligence,AI Add-on,Users,5000,16.0,10.4,13.5682,15.2,True,True,False,True,33920.5,203523.0,Subscription,,True,Active,Current
+BOM-00134,Q-2025-00032,NX-AN-BI-USR,Nexlara Analytics Business Intelligence,Analytics,Users,500,55.0,30.25,43.4494,21.0,True,False,False,False,21724.7,21724.7,Subscription,,True,Active,Current
+BOM-00135,Q-2025-00032,NX-BDL-AN-ENT,Nexlara Analytics Bundle Enterprise,Analytics,Users,500,36.0,19.8,33.6979,6.39,True,False,False,False,16848.95,16848.95,Subscription,,True,Active,Current
+BOM-00136,Q-2025-00032,NX-AN-ML-USR,Nexlara Analytics ML Platform,Analytics,Users,150,72.0,39.6,65.6307,8.85,True,False,False,False,9844.61,9844.61,Subscription+Overage,6.9144,False,Active,Current
+BOM-00137,Q-2025-00032,NX-AN-CONS-CU,Nexlara Analytics Compute Credits,Analytics,Consumption Units,250000,0.95,0.57,0.7431,21.78,True,False,False,False,185775.0,185775.0,Consumption,0.1344,True,Active,Current
+BOM-00138,Q-2025-00032,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2007.6848,16.35,True,False,False,False,2007.68,2007.68,Subscription,,True,Active,Current
+BOM-00139,Q-2025-00033,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5327.5569,8.15,True,False,False,False,5327.56,15982.67,Subscription,,True,Active,Current
+BOM-00140,Q-2025-00033,NX-ERP-CX-TNT,Nexlara ERP Customer Experience,ERP,Tenants,1,7500.0,3900.0,6798.7479,9.35,True,False,False,False,6798.75,20396.24,Subscription,,True,Active,Current
+BOM-00141,Q-2025-00033,NX-ERP-HR-TNT,Nexlara ERP HR Core,ERP,Tenants,1,12000.0,6000.0,9755.021,18.71,True,False,False,False,9755.02,29265.06,Subscription,,True,Active,Current
+BOM-00142,Q-2025-00033,NX-AI-CAP-ENT,Nexlara AI Capacity Enterprise,AI Add-on,Consumption Units,10000,1.2,0.78,1.1136,7.2,True,True,False,True,5568.0,33408.0,Consumption,0.1375,False,Active,Current
+BOM-00143,Q-2025-00033,NX-ERP-FI-PP,Nexlara ERP Finance (Perpetual),ERP,Tenants,1,45000.0,26100.0,39097.8879,13.12,True,False,False,True,19548.94,117293.66,Perpetual,,True,Sunset Notice,Legacy
+BOM-00144,Q-2025-00034,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5091.9998,12.21,True,False,False,True,2546.0,15276.0,Subscription,,True,Active,Current
+BOM-00145,Q-2025-00034,NX-AN-XSELL-USR,Nexlara Analytics Cross-Sell Starter,Analytics,Users,3000,18.0,9.9,11.8118,34.38,True,False,False,True,17717.7,106306.2,Subscription,,True,Active,Current
+BOM-00146,Q-2025-00034,NX-HCM-LM-LEG,Nexlara HCM Learning (Legacy),HCM,Users,100,22.0,13.2,19.0014,13.63,True,False,False,True,950.07,5700.42,Perpetual,,True,Sunset Notice,Legacy
+BOM-00147,Q-2025-00035,NX-ERP-CONS2-TXN,Nexlara ERP Flex Credits,ERP,Transactions,500000,0.18,0.108,0.1607,10.74,True,False,False,False,80350.0,241050.0,Consumption,0.0242,True,Active,Current
+BOM-00148,Q-2025-00035,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2005.2496,16.45,True,False,False,True,1002.62,6015.75,Subscription,,True,Active,Current
+BOM-00149,Q-2025-00036,NX-HCM-SP-USR,Nexlara HCM Succession Planning,HCM,Users,50,24.0,13.2,18.8373,21.51,True,False,False,True,470.93,1883.73,Subscription,,True,Active,Current
+BOM-00150,Q-2025-00036,NX-BDL-HCM-S,Nexlara HCM Bundle Small,HCM,Users,300,68.0,37.4,49.9966,26.48,True,False,False,False,14998.98,29997.96,Subscription,,True,Active,Current
+BOM-00151,Q-2025-00036,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5259.7466,9.31,True,False,False,False,5259.75,10519.49,Subscription,,True,Active,Current
+BOM-00152,Q-2025-00036,NX-AI-CAP-ENT,Nexlara AI Capacity Enterprise,AI Add-on,Consumption Units,500000,1.2,0.78,1.0129,15.59,True,True,False,True,253225.0,1012900.0,Consumption,0.1375,True,Active,Current
+BOM-00153,Q-2025-00036,NX-ERP-FULL-PP,Nexlara ERP Full Suite (Perpetual),ERP,Tenants,1,95000.0,55100.0,88729.9249,6.6,True,False,False,False,88729.92,177459.85,Perpetual,,True,Sunset Notice,Legacy
+BOM-00154,Q-2025-00037,NX-ERP-SC-TNT,Nexlara ERP Supply Chain,ERP,Tenants,1,14000.0,7000.0,12119.6235,13.43,True,False,False,False,12119.62,12119.62,Subscription,,True,Active,Current
+BOM-00155,Q-2025-00037,NX-ERP-CONS-TXN,Nexlara ERP Consumption Credits,ERP,Transactions,1000000,0.12,0.072,0.1113,7.27,True,False,False,False,111300.0,111300.0,Consumption,0.0135,True,Active,Current
+BOM-00156,Q-2025-00037,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2136.3947,10.98,True,False,False,False,2136.39,2136.39,Subscription,,True,Active,Current
+BOM-00157,Q-2025-00037,NX-ERP-PROC-TNT,Nexlara ERP Procurement,ERP,Tenants,1,8200.0,4264.0,6472.409,21.07,True,False,False,False,6472.41,6472.41,Subscription,,True,Active,Current
+BOM-00158,Q-2025-00037,NX-ERP-STOR-CONS,Nexlara ERP Storage Credits,ERP,Consumption Units,1000000,0.22,0.132,0.2039,7.33,True,False,False,False,203900.0,203900.0,Consumption,0.0214,True,Active,Current
+BOM-00159,Q-2025-00037,NX-AI-DOC-USR,Nexlara AI Document Intelligence,AI Add-on,Users,100,16.0,10.4,14.2587,10.88,True,True,False,False,1425.87,1425.87,Subscription,,True,Active,Current
+BOM-00160,Q-2025-00037,NX-HCM-EC-LEG,Nexlara HCM Employee Central (Legacy),HCM,Users,250,70.0,42.0,64.7043,7.57,True,False,False,False,16176.08,16176.08,Perpetual,,True,Deprecated,Legacy
+BOM-00161,Q-2025-00038,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,4860.9291,16.19,True,False,False,False,4860.93,4860.93,Subscription,,True,Active,Current
+BOM-00162,Q-2025-00038,NX-AN-DW-TNT,Nexlara Analytics Data Warehouse,Analytics,Tenants,1,2200.0,1210.0,1886.8436,14.23,True,False,False,False,1886.84,1886.84,Consumption,276.9376,True,Active,Current
+BOM-00163,Q-2025-00038,NX-BDL-AN-ENT,Nexlara Analytics Bundle Enterprise,Analytics,Users,500,36.0,19.8,31.4568,12.62,True,False,False,False,15728.4,15728.4,Subscription,,True,Active,Current
+BOM-00164,Q-2025-00039,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,4905.111,15.43,True,False,False,False,4905.11,4905.11,Subscription,,True,Active,Current
+BOM-00165,Q-2025-00039,NX-HCM-INTG-CONS,Nexlara HCM Integration Credits,HCM,Transactions,500000,0.15,0.09,0.1254,16.37,True,False,False,False,62700.0,62700.0,Consumption,0.0197,True,Active,Current
+BOM-00166,Q-2025-00039,NX-HCM-DEI-USR,Nexlara HCM DEI Dashboard,HCM,Users,150,12.0,6.6,7.5832,36.81,True,False,False,False,1137.48,1137.48,Subscription,,True,Active,Current
+BOM-00167,Q-2025-00039,NX-AI-CAP-STD,Nexlara AI Capacity Standard,AI Add-on,Consumption Units,500000,1.8,1.17,1.687,6.28,True,True,False,False,843500.0,843500.0,Consumption,0.2697,True,Active,Current
+BOM-00168,Q-2025-00040,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,4941.5501,14.8,True,False,False,True,2470.78,14824.65,Subscription,,True,Active,Current
+BOM-00169,Q-2025-00040,NX-ERP-FI-TNT,Nexlara ERP Finance Core,ERP,Tenants,1,18000.0,9000.0,13689.0967,23.95,True,False,False,True,6844.55,41067.29,Subscription,,True,Active,Current
+BOM-00170,Q-2025-00040,NX-ERP-PROC-TNT,Nexlara ERP Procurement,ERP,Tenants,1,8200.0,4264.0,7544.7997,7.99,True,False,False,False,7544.8,22634.4,Subscription,,True,Active,Current
+BOM-00171,Q-2025-00040,NX-ERP-CX-TNT,Nexlara ERP Customer Experience,ERP,Tenants,1,7500.0,3900.0,5402.285,27.97,True,False,False,True,2701.14,16206.85,Subscription,,True,Active,Current
+BOM-00172,Q-2025-00040,NX-AI-CAP-ENT,Nexlara AI Capacity Enterprise,AI Add-on,Consumption Units,50000,1.2,0.78,1.0047,16.28,True,True,False,True,25117.5,150705.0,Consumption,0.1375,True,Active,Current
+BOM-00173,Q-2025-00041,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5243.0331,9.6,True,False,False,True,2621.52,10486.07,Subscription,,True,Active,Current
+BOM-00174,Q-2025-00041,NX-HCM-WELL-USR,Nexlara HCM Wellbeing Suite,HCM,Users,500,14.0,7.7,10.0644,28.11,True,False,False,True,2516.1,10064.4,Subscription,,True,Active,Current
+BOM-00175,Q-2025-00041,NX-ERP-FULL-PP,Nexlara ERP Full Suite (Perpetual),ERP,Tenants,1,95000.0,55100.0,84320.3381,11.24,True,False,False,False,84320.34,168640.68,Perpetual,,True,Sunset Notice,Legacy
+BOM-00176,Q-2025-00042,NX-AN-RT-USR,Nexlara Analytics Real-Time Insights,Analytics,Users,1500,48.0,26.4,36.4824,24.0,True,False,False,True,27361.8,164170.8,Subscription,,True,Active,Current
+BOM-00177,Q-2025-00042,NX-AN-BI-USR,Nexlara Analytics Business Intelligence,Analytics,Users,500,55.0,30.25,39.3081,28.53,True,False,False,False,19654.05,58962.15,Subscription,,True,Active,Current
+BOM-00178,Q-2025-00042,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2041.9291,14.92,True,False,False,False,2041.93,6125.79,Subscription,,True,Active,Current
+BOM-00179,Q-2025-00042,NX-AI-GEN-USR,Nexlara AI Generative Assistant,AI Add-on,Users,3000,22.0,14.3,18.4372,16.19,True,True,False,False,55311.6,165934.8,Subscription+Overage,2.1265,True,Active,Current
+BOM-00180,Q-2025-00043,NX-HCM-LM-USR,Nexlara HCM Learning Management,HCM,Users,1000,28.0,15.4,19.4006,30.71,True,False,False,False,19400.6,19400.6,Subscription,,True,Active,Current
+BOM-00181,Q-2025-00043,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5125.3751,11.63,True,False,False,False,5125.38,5125.38,Subscription,,True,Active,Current
+BOM-00182,Q-2025-00043,NX-HCM-DEI-USR,Nexlara HCM DEI Dashboard,HCM,Users,1500,12.0,6.6,10.4996,12.5,True,False,False,False,15749.4,15749.4,Subscription,,True,Active,Current
+BOM-00183,Q-2025-00043,NX-HCM-CT-USR,Nexlara HCM Compensation & Total Rwds,HCM,Users,2000,36.0,19.8,25.3987,29.45,True,False,False,False,50797.4,50797.4,Subscription,,True,Active,Current
+BOM-00184,Q-2025-00043,NX-HCM-OB-USR,Nexlara HCM Onboarding,HCM,Users,1000,32.0,17.6,24.7923,22.52,True,False,False,False,24792.3,24792.3,Subscription,,True,Active,Current
+BOM-00185,Q-2025-00043,NX-AI-DOC-USR,Nexlara AI Document Intelligence,AI Add-on,Users,3000,16.0,10.4,14.0624,12.11,True,True,False,False,42187.2,42187.2,Subscription,,True,Active,Current
+BOM-00186,Q-2025-00044,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5101.1864,12.05,True,False,False,True,2550.59,10202.37,Subscription,,True,Active,Current
+BOM-00187,Q-2025-00044,NX-ERP-API-CONS,Nexlara ERP API Credits,ERP,Transactions,50000,0.08,0.048,0.0691,13.59,True,False,False,True,1727.5,6910.0,Consumption,0.0088,True,Active,Current
+BOM-00188,Q-2025-00044,NX-ERP-HR-TNT,Nexlara ERP HR Core,ERP,Tenants,1,12000.0,6000.0,9733.9946,18.88,True,False,False,True,4867.0,19467.99,Subscription,,True,Active,Current
+BOM-00189,Q-2025-00044,NX-BDL-RISE-L,Nexlara RISE Bundle Large,ERP,Tenants,1,92000.0,47840.0,75647.6348,17.77,True,False,False,True,37823.82,151295.27,Subscription,,True,Active,Current
+BOM-00190,Q-2025-00045,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,4964.9921,14.4,True,False,False,False,4964.99,4964.99,Subscription,,True,Active,Current
+BOM-00191,Q-2025-00045,NX-HCM-MKTPL-USR,Nexlara HCM Marketplace Connect,HCM,Users,100,20.0,11.0,16.4291,17.85,True,False,False,False,1642.91,1642.91,Subscription,,True,Active,Current
+BOM-00192,Q-2025-00045,NX-AI-DOC-USR,Nexlara AI Document Intelligence,AI Add-on,Users,5000,16.0,10.4,14.1456,11.59,True,True,False,False,70728.0,70728.0,Subscription,,True,Active,Current
+BOM-00193,Q-2025-00046,NX-BDL-RISE-M,Nexlara RISE Bundle Medium,ERP,Tenants,1,48000.0,24960.0,45269.7729,5.69,True,False,False,True,22634.89,90539.55,Subscription,,True,Active,Current
+BOM-00194,Q-2025-00046,NX-ERP-PM-TNT,Nexlara ERP Project Management,ERP,Tenants,1,9500.0,4750.0,6828.0827,28.13,True,False,False,False,6828.08,13656.17,Subscription,,True,Active,Current
+BOM-00195,Q-2025-00046,NX-ERP-CX-TNT,Nexlara ERP Customer Experience,ERP,Tenants,1,7500.0,3900.0,5261.2636,29.85,True,False,False,False,5261.26,10522.53,Subscription,,True,Active,Current
+BOM-00196,Q-2025-00046,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,4916.296,15.24,True,False,False,True,2458.15,9832.59,Subscription,,True,Active,Current
+BOM-00197,Q-2025-00046,NX-ERP-FULL-PP,Nexlara ERP Full Suite (Perpetual),ERP,Tenants,1,95000.0,55100.0,81046.3805,14.69,True,False,False,True,40523.19,162092.76,Perpetual,,True,Sunset Notice,Legacy
+BOM-00198,Q-2025-00047,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,4998.1333,13.83,True,False,False,True,2499.07,14994.4,Subscription,,True,Active,Current
+BOM-00199,Q-2025-00047,NX-AN-DW-TNT,Nexlara Analytics Data Warehouse,Analytics,Tenants,1,2200.0,1210.0,1683.2249,23.49,True,False,False,True,841.61,5049.67,Consumption,276.9376,True,Active,Current
+BOM-00200,Q-2025-00048,NX-AN-STRM-OVG,Nexlara Analytics Streaming Overage,Analytics,Consumption Units,1000000,1.4,0.84,1.1005,21.4,True,False,False,True,550250.0,3301500.0,Subscription+Overage,0.1515,True,Active,Current
+BOM-00201,Q-2025-00048,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2135.9321,11.0,True,False,False,False,2135.93,6407.8,Subscription,,True,Active,Current
+BOM-00202,Q-2025-00048,NX-AI-JOULE-USR,Nexlara AI Joule Assistant,AI Add-on,Users,50,14.0,9.1,11.1654,20.25,True,True,False,False,558.27,1674.81,Subscription,,True,Active,Current
+BOM-00203,Q-2025-00049,NX-ERP-PM-TNT,Nexlara ERP Project Management,ERP,Tenants,1,9500.0,4750.0,7809.2576,17.8,True,False,False,False,7809.26,23427.77,Subscription,,True,Active,Current
+BOM-00204,Q-2025-00049,NX-ERP-CONS-TXN,Nexlara ERP Consumption Credits,ERP,Transactions,1000000,0.12,0.072,0.1049,12.6,True,False,False,False,104900.0,314700.0,Consumption,0.0135,True,Active,Current
+BOM-00205,Q-2025-00049,NX-ERP-SC-TNT,Nexlara ERP Supply Chain,ERP,Tenants,1,14000.0,7000.0,13117.7186,6.3,True,False,False,False,13117.72,39353.16,Subscription,,True,Active,Current
+BOM-00206,Q-2025-00049,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2094.4889,12.73,True,False,False,True,1047.24,6283.47,Subscription,,True,Active,Current
+BOM-00207,Q-2025-00050,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5221.3155,9.98,True,False,False,True,2610.66,15663.95,Subscription,,True,Active,Current
+BOM-00208,Q-2025-00050,NX-HCM-EC-USR,Nexlara HCM Employee Central,HCM,Users,1000,85.0,46.75,58.5087,31.17,True,False,False,False,58508.7,175526.1,Subscription,,True,Active,Current
+BOM-00209,Q-2025-00050,NX-HCM-INTG-CONS,Nexlara HCM Integration Credits,HCM,Transactions,1000000,0.15,0.09,0.1277,14.84,True,False,False,False,127700.0,383100.0,Consumption,0.0197,True,Active,Current
+BOM-00210,Q-2025-00050,NX-AI-CAP-STD,Nexlara AI Capacity Standard,AI Add-on,Consumption Units,50000,1.8,1.17,1.6783,6.76,True,True,False,False,83915.0,251745.0,Consumption,0.2697,True,Active,Current
+BOM-00211,Q-2025-00051,NX-HCM-SP-USR,Nexlara HCM Succession Planning,HCM,Users,150,24.0,13.2,21.8714,8.87,True,False,False,False,3280.71,9842.13,Subscription,,True,Active,Current
+BOM-00212,Q-2025-00051,NX-HCM-WF-USR,Nexlara HCM Workforce Analytics,HCM,Users,3000,42.0,23.1,33.8754,19.34,True,False,False,False,101626.2,304878.6,Subscription+Overage,3.727,True,Active,Current
+BOM-00213,Q-2025-00051,NX-HCM-TIME-USR,Nexlara HCM Time & Attendance,HCM,Employees,1000,18.0,9.9,11.9099,33.83,True,False,False,False,11909.9,35729.7,Subscription,,True,Active,Current
+BOM-00214,Q-2025-00051,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,4886.0134,15.76,True,False,False,False,4886.01,14658.04,Subscription,,True,Active,Current
+BOM-00215,Q-2025-00051,NX-HCM-PAY-EMP,Nexlara HCM Payroll Connect,HCM,Employees,200,22.0,12.1,19.6082,10.87,True,False,False,False,3921.64,11764.92,Subscription,,True,Active,Current
+BOM-00216,Q-2025-00052,NX-HCM-MKTPL-USR,Nexlara HCM Marketplace Connect,HCM,Users,1000,20.0,11.0,16.3099,18.45,True,False,False,True,8154.95,48929.7,Subscription,,True,Active,Current
+BOM-00217,Q-2025-00052,NX-HCM-DEI-USR,Nexlara HCM DEI Dashboard,HCM,Users,2000,12.0,6.6,8.5453,28.79,True,False,False,False,17090.6,51271.8,Subscription,,True,Active,Current
+BOM-00218,Q-2025-00052,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2033.293,15.28,True,False,False,True,1016.65,6099.88,Subscription,,True,Active,Current
+BOM-00219,Q-2025-00053,NX-AN-BI-USR,Nexlara Analytics Business Intelligence,Analytics,Users,200,55.0,30.25,47.8155,13.06,True,False,False,False,9563.1,19126.2,Subscription,,True,Active,Current
+BOM-00220,Q-2025-00053,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2008.5451,16.31,True,False,False,False,2008.55,4017.09,Subscription,,True,Active,Current
+BOM-00221,Q-2025-00053,NX-AI-CAP-STD,Nexlara AI Capacity Standard,AI Add-on,Consumption Units,50000,1.8,1.17,1.4531,19.27,True,True,False,True,36327.5,145310.0,Consumption,0.2697,True,Active,Current
+BOM-00222,Q-2025-00054,NX-ERP-CONS2-TXN,Nexlara ERP Flex Credits,ERP,Transactions,1000000,0.18,0.108,0.1512,16.0,True,False,False,True,75600.0,453600.0,Consumption,0.0242,True,Active,Current
+BOM-00223,Q-2025-00054,NX-BDL-RISE-S,Nexlara RISE Bundle Small,ERP,Tenants,1,24000.0,12480.0,20041.0196,16.5,True,False,False,False,20041.02,60123.06,Subscription,,True,Active,Current
+BOM-00224,Q-2025-00054,NX-ERP-API-CONS,Nexlara ERP API Credits,ERP,Transactions,1000000,0.08,0.048,0.0721,9.89,True,False,False,False,72100.0,216300.0,Consumption,0.0088,True,Active,Current
+BOM-00225,Q-2025-00054,NX-ERP-PM-TNT,Nexlara ERP Project Management,ERP,Tenants,1,9500.0,4750.0,6560.5504,30.94,True,False,False,True,3280.28,19681.65,Subscription,,True,Active,Current
+BOM-00226,Q-2025-00054,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,4871.8798,16.0,True,False,False,False,4871.88,14615.64,Subscription,,True,Active,Current
+BOM-00227,Q-2025-00055,NX-HCM-PAY-EMP,Nexlara HCM Payroll Connect,HCM,Employees,750,22.0,12.1,15.7873,28.24,True,False,False,False,11840.48,11840.48,Subscription,,True,Active,Current
+BOM-00228,Q-2025-00055,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2028.4298,15.48,True,False,False,False,2028.43,2028.43,Subscription,,True,Active,Current
+BOM-00229,Q-2025-00055,NX-AI-TOKN-CONS,Nexlara AI Token Credits,AI Add-on,Consumption Units,1000000,0.004,0.0026,0.0035,13.16,True,True,False,False,3500.0,3500.0,Consumption,0.0004,True,Active,Current
+BOM-00230,Q-2025-00056,NX-HCM-SP-USR,Nexlara HCM Succession Planning,HCM,Users,100,24.0,13.2,20.2652,15.56,True,False,False,True,1013.26,6079.56,Subscription,,True,Active,Current
+BOM-00231,Q-2025-00056,NX-BDL-HCM-L,Nexlara HCM Bundle Large,HCM,Users,1000,48.0,26.4,42.3277,11.82,True,False,False,True,21163.85,126983.1,Subscription,,True,Active,Current
+BOM-00232,Q-2025-00056,NX-HCM-DEI-USR,Nexlara HCM DEI Dashboard,HCM,Users,250,12.0,6.6,11.3773,5.19,True,False,False,True,1422.16,8532.97,Subscription,,True,Active,Current
+BOM-00233,Q-2025-00056,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2021.2515,15.78,True,False,False,True,1010.63,6063.75,Subscription,,True,Active,Current
+BOM-00234,Q-2025-00056,NX-AI-CAP-ENT,Nexlara AI Capacity Enterprise,AI Add-on,Consumption Units,100000,1.2,0.78,1.0182,15.15,True,True,False,False,101820.0,305460.0,Consumption,0.1375,True,Active,Current
+BOM-00235,Q-2025-00057,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,4985.5658,14.04,True,False,False,False,4985.57,4985.57,Subscription,,True,Active,Current
+BOM-00236,Q-2025-00057,NX-AN-ML-USR,Nexlara Analytics ML Platform,Analytics,Users,150,72.0,39.6,60.0148,16.65,True,False,False,False,9002.22,9002.22,Subscription+Overage,6.9144,True,Active,Current
+BOM-00237,Q-2025-00057,NX-BDL-AN-S,Nexlara Analytics Bundle Starter,Analytics,Users,1000,44.0,24.2,36.4394,17.18,True,False,False,False,36439.4,36439.4,Subscription,,True,Active,Current
+BOM-00238,Q-2025-00057,NX-AN-XSELL-USR,Nexlara Analytics Cross-Sell Starter,Analytics,Users,300,18.0,9.9,15.7662,12.41,True,False,False,False,4729.86,4729.86,Subscription,,True,Active,Current
+BOM-00239,Q-2025-00057,NX-AI-CAP-ENT,Nexlara AI Capacity Enterprise,AI Add-on,Consumption Units,50000,1.2,0.78,1.0047,16.28,True,True,True,False,50235.0,50235.0,Consumption,0.1375,True,Active,Current
+BOM-00240,Q-2025-00058,NX-BDL-RISE-S,Nexlara RISE Bundle Small,ERP,Tenants,1,24000.0,12480.0,19445.8888,18.98,True,False,False,False,19445.89,38891.78,Subscription,,True,Active,Current
+BOM-00241,Q-2025-00058,NX-ERP-FI-TNT,Nexlara ERP Finance Core,ERP,Tenants,1,18000.0,9000.0,13659.9411,24.11,True,False,False,True,6829.97,27319.88,Subscription,,True,Active,Current
+BOM-00242,Q-2025-00058,NX-ERP-SC-TNT,Nexlara ERP Supply Chain,ERP,Tenants,1,14000.0,7000.0,9709.5449,30.65,True,False,False,False,9709.54,19419.09,Subscription,,True,Active,Current
+BOM-00243,Q-2025-00058,NX-ERP-BI-TNT,Nexlara ERP Business Intelligence,ERP,Tenants,1,11000.0,5720.0,9354.8841,14.96,True,False,False,True,4677.44,18709.77,Subscription+Overage,1601.224,True,Active,Current
+BOM-00244,Q-2025-00058,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2201.9392,8.25,True,False,False,False,2201.94,4403.88,Subscription,,True,Active,Current
+BOM-00245,Q-2025-00058,NX-AI-DOC-USR,Nexlara AI Document Intelligence,AI Add-on,Users,5000,16.0,10.4,14.5101,9.31,True,True,False,True,36275.25,145101.0,Subscription,,True,Active,Current
+BOM-00246,Q-2025-00059,NX-ERP-PROC-TNT,Nexlara ERP Procurement,ERP,Tenants,1,8200.0,4264.0,6463.6604,21.17,True,False,False,True,3231.83,12927.32,Subscription,,True,Active,Current
+BOM-00247,Q-2025-00059,NX-BDL-RISE-S,Nexlara RISE Bundle Small,ERP,Tenants,1,24000.0,12480.0,19400.6218,19.16,True,False,False,True,9700.31,38801.24,Subscription,,True,Active,Current
+BOM-00248,Q-2025-00059,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5052.8347,12.88,True,False,False,False,5052.83,10105.67,Subscription,,True,Active,Current
+BOM-00249,Q-2025-00059,NX-AI-CAP-STD,Nexlara AI Capacity Standard,AI Add-on,Consumption Units,50000,1.8,1.17,1.5454,14.14,True,True,False,False,77270.0,154540.0,Consumption,0.2697,True,Active,Current
+BOM-00250,Q-2025-00059,NX-HCM-EC-LEG,Nexlara HCM Employee Central (Legacy),HCM,Users,5000,70.0,42.0,59.645,14.79,True,False,False,False,298225.0,596450.0,Perpetual,,True,Deprecated,Legacy
+BOM-00251,Q-2025-00060,NX-AN-CONS-CU,Nexlara Analytics Compute Credits,Analytics,Consumption Units,10000,0.95,0.57,0.8884,6.49,True,False,False,True,4442.0,26652.0,Consumption,0.1344,True,Active,Current
+BOM-00252,Q-2025-00060,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2060.7967,14.13,True,False,False,True,1030.4,6182.39,Subscription,,True,Active,Current
+BOM-00253,Q-2025-00061,NX-BDL-HCM-S,Nexlara HCM Bundle Small,HCM,Users,500,68.0,37.4,50.7731,25.33,True,False,False,False,25386.55,25386.55,Subscription,,True,Active,Current
+BOM-00254,Q-2025-00061,NX-HCM-DEI-USR,Nexlara HCM DEI Dashboard,HCM,Users,1000,12.0,6.6,11.3763,5.2,True,False,False,False,11376.3,11376.3,Subscription,,True,Active,Current
+BOM-00255,Q-2025-00061,NX-HCM-WF-USR,Nexlara HCM Workforce Analytics,HCM,Users,3000,42.0,23.1,32.6282,22.31,True,False,False,False,97884.6,97884.6,Subscription+Overage,3.727,True,Active,Current
+BOM-00256,Q-2025-00061,NX-BDL-HCM-L,Nexlara HCM Bundle Large,HCM,Users,5000,48.0,26.4,36.3621,24.25,True,False,False,False,181810.5,181810.5,Subscription,,True,Active,Current
+BOM-00257,Q-2025-00061,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5479.6403,5.52,True,False,False,False,5479.64,5479.64,Subscription,,True,Active,Current
+BOM-00258,Q-2025-00061,NX-AI-CAP-STD,Nexlara AI Capacity Standard,AI Add-on,Consumption Units,10000,1.8,1.17,1.6005,11.08,True,True,False,False,16005.0,16005.0,Consumption,0.2697,True,Active,Current
+BOM-00259,Q-2025-00062,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5218.07,10.03,True,False,False,False,5218.07,5218.07,Subscription,,True,Active,Current
+BOM-00260,Q-2025-00062,NX-ERP-CONS2-TXN,Nexlara ERP Flex Credits,ERP,Transactions,250000,0.18,0.108,0.1458,18.98,True,False,False,False,36450.0,36450.0,Consumption,0.0242,True,Active,Current
+BOM-00261,Q-2025-00063,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,4978.5541,14.16,True,False,False,False,4978.55,4978.55,Subscription,,True,Active,Current
+BOM-00262,Q-2025-00063,NX-ERP-CX-TNT,Nexlara ERP Customer Experience,ERP,Tenants,1,7500.0,3900.0,5481.2805,26.92,True,False,False,False,5481.28,5481.28,Subscription,,True,Active,Current
+BOM-00263,Q-2025-00063,NX-ERP-HR-TNT,Nexlara ERP HR Core,ERP,Tenants,1,12000.0,6000.0,10408.8723,13.26,True,False,False,False,10408.87,10408.87,Subscription,,True,Active,Current
+BOM-00264,Q-2025-00064,NX-HCM-CT-USR,Nexlara HCM Compensation & Total Rwds,HCM,Users,1500,36.0,19.8,30.2277,16.03,True,False,False,True,22670.77,136024.65,Subscription,,True,Active,Current
+BOM-00265,Q-2025-00064,NX-HCM-EC-USR,Nexlara HCM Employee Central,HCM,Users,100,85.0,46.75,72.0739,15.21,True,False,False,False,7207.39,21622.17,Subscription,,True,Active,Current
+BOM-00266,Q-2025-00064,NX-HCM-OB-USR,Nexlara HCM Onboarding,HCM,Users,3000,32.0,17.6,26.7139,16.52,True,False,False,True,40070.85,240425.1,Subscription,,True,Active,Current
+BOM-00267,Q-2025-00064,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5079.1637,12.43,True,False,False,True,2539.58,15237.49,Subscription,,True,Active,Current
+BOM-00268,Q-2025-00064,NX-AI-GEN-USR,Nexlara AI Generative Assistant,AI Add-on,Users,150,22.0,14.3,20.4345,7.12,True,True,False,True,1532.59,9195.53,Subscription+Overage,2.1265,True,Active,Current
+BOM-00269,Q-2025-00065,NX-BDL-AN-S,Nexlara Analytics Bundle Starter,Analytics,Users,100,44.0,24.2,37.9378,13.78,True,False,False,False,3793.78,3793.78,Subscription,,True,Active,Current
+BOM-00270,Q-2025-00065,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2261.4079,5.77,True,False,False,False,2261.41,2261.41,Subscription,,True,Active,Current
+BOM-00271,Q-2025-00065,NX-AI-GEN-USR,Nexlara AI Generative Assistant,AI Add-on,Users,100,22.0,14.3,20.4005,7.27,True,True,False,False,2040.05,2040.05,Subscription+Overage,2.1265,True,Active,Current
+BOM-00272,Q-2025-00066,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5463.4375,5.8,True,False,False,False,5463.44,5463.44,Subscription,,True,Active,Current
+BOM-00273,Q-2025-00066,NX-AN-STRM-OVG,Nexlara Analytics Streaming Overage,Analytics,Consumption Units,50000,1.4,0.84,1.2544,10.4,True,False,False,False,62720.0,62720.0,Subscription+Overage,0.1515,True,Active,Current
+BOM-00274,Q-2025-00066,NX-AN-DW-TNT,Nexlara Analytics Data Warehouse,Analytics,Tenants,1,2200.0,1210.0,1834.2133,16.63,True,False,False,False,1834.21,1834.21,Consumption,276.9376,True,Active,Current
+BOM-00275,Q-2025-00066,NX-AI-GEN-USR,Nexlara AI Generative Assistant,AI Add-on,Users,1500,22.0,14.3,19.2317,12.58,True,True,False,False,28847.55,28847.55,Subscription+Overage,2.1265,True,Active,Current
+BOM-00276,Q-2025-00067,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5362.2424,7.55,True,False,False,False,5362.24,10724.48,Subscription,,True,Active,Current
+BOM-00277,Q-2025-00067,NX-AN-RT-USR,Nexlara Analytics Real-Time Insights,Analytics,Users,500,48.0,26.4,41.8814,12.75,True,False,False,True,10470.35,41881.4,Subscription,,True,Active,Current
+BOM-00278,Q-2025-00067,NX-AN-BI-USR,Nexlara Analytics Business Intelligence,Analytics,Users,2000,55.0,30.25,40.0753,27.14,True,False,False,False,80150.6,160301.2,Subscription,,True,Active,Current
+BOM-00279,Q-2025-00067,NX-AN-ESG-USR,Nexlara Analytics ESG Reporting,Analytics,Users,750,38.0,20.9,31.3614,17.47,True,False,False,False,23521.05,47042.1,Subscription,,True,Active,Current
+BOM-00280,Q-2025-00067,NX-AI-TOKN-CONS,Nexlara AI Token Credits,AI Add-on,Consumption Units,250000,0.004,0.0026,0.0035,11.34,True,True,True,False,875.0,1750.0,Consumption,0.0004,True,Active,Current
+BOM-00281,Q-2025-00068,NX-HCM-LM-USR,Nexlara HCM Learning Management,HCM,Users,2000,28.0,15.4,26.3074,6.05,True,False,False,False,52614.8,52614.8,Subscription,,True,Active,Current
+BOM-00282,Q-2025-00068,NX-HCM-PAY-EMP,Nexlara HCM Payroll Connect,HCM,Employees,1500,22.0,12.1,17.334,21.21,True,False,False,False,26001.0,26001.0,Subscription,,True,Active,Current
+BOM-00283,Q-2025-00068,NX-AN-BI-USR,Nexlara Analytics Business Intelligence,Analytics,Users,5000,55.0,30.25,42.4495,22.82,True,False,False,False,212247.5,212247.5,Subscription,,True,Active,Current
+BOM-00284,Q-2025-00068,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2029.8602,15.42,True,False,False,False,2029.86,2029.86,Subscription,,True,Active,Current
+BOM-00285,Q-2025-00069,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5116.7363,11.78,True,False,False,False,5116.74,15350.21,Subscription,,True,Active,Current
+BOM-00286,Q-2025-00069,NX-HCM-WELL-USR,Nexlara HCM Wellbeing Suite,HCM,Users,150,14.0,7.7,11.1206,20.57,True,False,False,True,834.04,5004.27,Subscription,,True,Active,Current
+BOM-00287,Q-2025-00069,NX-BDL-HCM-S,Nexlara HCM Bundle Small,HCM,Users,500,68.0,37.4,57.1277,15.99,True,False,False,True,14281.92,85691.55,Subscription,,True,Active,Current
+BOM-00288,Q-2025-00069,NX-AI-TOKN-CONS,Nexlara AI Token Credits,AI Add-on,Consumption Units,50000,0.004,0.0026,0.0034,14.75,True,True,False,False,170.0,510.0,Consumption,0.0004,True,Active,Current
+BOM-00289,Q-2025-00070,NX-ERP-CONS2-TXN,Nexlara ERP Flex Credits,ERP,Transactions,50000,0.18,0.108,0.1485,17.51,True,False,False,True,3712.5,14850.0,Consumption,0.0242,True,Active,Current
+BOM-00290,Q-2025-00070,NX-ERP-API-CONS,Nexlara ERP API Credits,ERP,Transactions,100000,0.08,0.048,0.0755,5.69,True,False,False,False,7550.0,15100.0,Consumption,0.0088,True,Active,Current
+BOM-00291,Q-2025-00070,NX-ERP-BI-TNT,Nexlara ERP Business Intelligence,ERP,Tenants,1,11000.0,5720.0,9792.2938,10.98,True,False,False,True,4896.15,19584.59,Subscription+Overage,1601.224,True,Active,Current
+BOM-00292,Q-2025-00070,NX-ERP-HR-TNT,Nexlara ERP HR Core,ERP,Tenants,1,12000.0,6000.0,10613.6973,11.55,True,False,False,False,10613.7,21227.39,Subscription,,True,Active,Current
+BOM-00293,Q-2025-00070,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2137.0637,10.96,True,False,False,False,2137.06,4274.13,Subscription,,True,Active,Current
+BOM-00294,Q-2025-00071,NX-BDL-RISE-S,Nexlara RISE Bundle Small,ERP,Tenants,1,24000.0,12480.0,19378.7383,19.26,True,False,False,True,9689.37,58136.21,Subscription,,True,Active,Current
+BOM-00295,Q-2025-00071,NX-ERP-FI-TNT,Nexlara ERP Finance Core,ERP,Tenants,1,18000.0,9000.0,13360.7751,25.77,True,False,False,True,6680.39,40082.33,Subscription,,True,Active,Current
+BOM-00296,Q-2025-00071,NX-ERP-SC-TNT,Nexlara ERP Supply Chain,ERP,Tenants,1,14000.0,7000.0,11064.9722,20.96,True,False,False,True,5532.49,33194.92,Subscription,,True,Active,Current
+BOM-00297,Q-2025-00071,NX-ERP-BI-TNT,Nexlara ERP Business Intelligence,ERP,Tenants,1,11000.0,5720.0,9375.7644,14.77,True,False,False,True,4687.88,28127.29,Subscription+Overage,1601.224,True,Active,Current
+BOM-00298,Q-2025-00071,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,4910.8828,15.33,True,False,False,True,2455.44,14732.65,Subscription,,True,Active,Current
+BOM-00299,Q-2025-00071,NX-AI-GEN-USR,Nexlara AI Generative Assistant,AI Add-on,Users,250,22.0,14.3,19.9479,9.33,True,True,False,True,2493.49,14960.93,Subscription+Overage,2.1265,True,Active,Current
+BOM-00300,Q-2025-00072,NX-ERP-CONS2-TXN,Nexlara ERP Flex Credits,ERP,Transactions,250000,0.18,0.108,0.1659,7.82,True,False,False,False,41475.0,41475.0,Consumption,0.0242,True,Active,Current
+BOM-00301,Q-2025-00072,NX-ERP-FI-TNT,Nexlara ERP Finance Core,ERP,Tenants,1,18000.0,9000.0,16711.4753,7.16,True,False,False,False,16711.48,16711.48,Subscription,,True,Active,Current
+BOM-00302,Q-2025-00072,NX-BDL-FULL-ENT,Nexlara Enterprise Full Bundle,ERP,Tenants,1,145000.0,75400.0,123940.9835,14.52,True,False,False,False,123940.98,123940.98,Subscription,,True,Active,Current
+BOM-00303,Q-2025-00072,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5368.9181,7.43,True,False,False,False,5368.92,5368.92,Subscription,,True,Active,Current
+BOM-00304,Q-2025-00072,NX-ERP-STOR-CONS,Nexlara ERP Storage Credits,ERP,Consumption Units,50000,0.22,0.132,0.2031,7.68,True,False,False,False,10155.0,10155.0,Consumption,0.0214,True,Active,Current
+BOM-00305,Q-2025-00072,NX-AI-CAP-ENT,Nexlara AI Capacity Enterprise,AI Add-on,Consumption Units,500000,1.2,0.78,0.9937,17.19,True,True,True,False,496850.0,496850.0,Consumption,0.1375,True,Active,Current
+BOM-00306,Q-2025-00073,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5115.9425,11.79,True,False,False,False,5115.94,10231.89,Subscription,,True,Active,Current
+BOM-00307,Q-2025-00073,NX-BDL-RISE-S,Nexlara RISE Bundle Small,ERP,Tenants,1,24000.0,12480.0,20581.1443,14.25,True,False,False,True,10290.57,41162.29,Subscription,,True,Active,Current
+BOM-00308,Q-2025-00073,NX-ERP-PM-TNT,Nexlara ERP Project Management,ERP,Tenants,1,9500.0,4750.0,8684.8256,8.58,True,False,False,True,4342.41,17369.65,Subscription,,True,Active,Current
+BOM-00309,Q-2025-00073,NX-ERP-CX-TNT,Nexlara ERP Customer Experience,ERP,Tenants,1,7500.0,3900.0,6864.309,8.48,True,False,False,True,3432.15,13728.62,Subscription,,True,Active,Current
+BOM-00310,Q-2025-00073,NX-AI-CAP-ENT,Nexlara AI Capacity Enterprise,AI Add-on,Consumption Units,500000,1.2,0.78,1.11,7.5,True,True,True,False,555000.0,1110000.0,Consumption,0.1375,True,Active,Current
+BOM-00311,Q-2025-00074,NX-HCM-LM-USR,Nexlara HCM Learning Management,HCM,Users,750,28.0,15.4,18.4647,34.05,True,False,False,True,6924.26,41545.57,Subscription,,True,Active,Current
+BOM-00312,Q-2025-00074,NX-HCM-TIME-USR,Nexlara HCM Time & Attendance,HCM,Employees,500,18.0,9.9,13.4769,25.13,True,False,False,False,6738.45,20215.35,Subscription,,True,Active,Current
+BOM-00313,Q-2025-00074,NX-HCM-WF-USR,Nexlara HCM Workforce Analytics,HCM,Users,5000,42.0,23.1,37.761,10.09,True,False,False,False,188805.0,566415.0,Subscription+Overage,3.727,True,Active,Current
+BOM-00314,Q-2025-00074,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2206.9923,8.04,True,False,False,False,2206.99,6620.98,Subscription,,True,Active,Current
+BOM-00315,Q-2025-00075,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5437.5837,6.25,True,False,False,False,5437.58,5437.58,Subscription,,True,Active,Current
+BOM-00316,Q-2025-00075,NX-ERP-CX-TNT,Nexlara ERP Customer Experience,ERP,Tenants,1,7500.0,3900.0,6733.4556,10.22,True,False,False,False,6733.46,6733.46,Subscription,,True,Active,Current
+BOM-00317,Q-2025-00075,NX-AI-CAP-ENT,Nexlara AI Capacity Enterprise,AI Add-on,Consumption Units,500000,1.2,0.78,1.0004,16.63,True,True,False,False,500200.0,500200.0,Consumption,0.1375,True,Active,Current
+BOM-00318,Q-2025-00076,NX-ERP-FI-TNT,Nexlara ERP Finance Core,ERP,Tenants,1,18000.0,9000.0,13680.0608,24.0,True,False,False,True,6840.03,41040.18,Subscription,,True,Active,Current
+BOM-00319,Q-2025-00076,NX-ERP-STOR-CONS,Nexlara ERP Storage Credits,ERP,Consumption Units,250000,0.22,0.132,0.1951,11.3,True,False,False,True,24387.5,146325.0,Consumption,0.0214,True,Active,Current
+BOM-00320,Q-2025-00076,NX-HCM-TIME-USR,Nexlara HCM Time & Attendance,HCM,Employees,1000,18.0,9.9,14.5134,19.37,True,False,False,False,14513.4,43540.2,Subscription,,True,Active,Current
+BOM-00321,Q-2025-00076,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2146.9339,10.54,True,False,False,False,2146.93,6440.8,Subscription,,True,Active,Current
+BOM-00322,Q-2025-00076,NX-HCM-MKTPL-USR,Nexlara HCM Marketplace Connect,HCM,Users,300,20.0,11.0,15.7013,21.49,True,False,False,False,4710.39,14131.17,Subscription,,True,Active,Current
+BOM-00323,Q-2025-00076,NX-HCM-RP-USR,Nexlara HCM Recruiting Pro,HCM,Users,5000,38.0,20.9,27.1923,28.44,True,False,False,True,67980.75,407884.5,Subscription,,True,Active,Current
+BOM-00324,Q-2025-00076,NX-HCM-OB-USR,Nexlara HCM Onboarding,HCM,Users,500,32.0,17.6,28.9648,9.49,True,False,False,True,7241.2,43447.2,Subscription,,True,Active,Current
+BOM-00325,Q-2025-00077,NX-AN-BI-USR,Nexlara Analytics Business Intelligence,Analytics,Users,100,55.0,30.25,43.6168,20.7,True,False,False,True,2180.84,13085.04,Subscription,,True,Active,Current
+BOM-00326,Q-2025-00077,NX-ERP-API-CONS,Nexlara ERP API Credits,ERP,Transactions,50000,0.08,0.048,0.0666,16.69,True,False,False,True,1665.0,9990.0,Consumption,0.0088,True,Active,Current
+BOM-00327,Q-2025-00077,NX-ERP-PM-TNT,Nexlara ERP Project Management,ERP,Tenants,1,9500.0,4750.0,8061.3624,15.14,True,False,False,True,4030.68,24184.09,Subscription,,True,Active,Current
+BOM-00328,Q-2025-00077,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2100.165,12.49,True,False,False,True,1050.08,6300.49,Subscription,,True,Active,Current
+BOM-00329,Q-2025-00077,NX-ERP-MM-TNT,Nexlara ERP Manufacturing,ERP,Tenants,1,16000.0,8000.0,11670.6552,27.06,True,False,False,True,5835.33,35011.97,Subscription,,True,Active,Current
+BOM-00330,Q-2025-00078,NX-ERP-CONS-TXN,Nexlara ERP Consumption Credits,ERP,Transactions,50000,0.12,0.072,0.104,13.33,True,False,False,False,5200.0,5200.0,Consumption,0.0135,True,Active,Current
+BOM-00331,Q-2025-00078,NX-BDL-FULL-ENT,Nexlara Enterprise Full Bundle,ERP,Tenants,1,145000.0,75400.0,125841.6023,13.21,True,False,False,False,125841.6,125841.6,Subscription,,True,Active,Current
+BOM-00332,Q-2025-00078,NX-BDL-RISE-L,Nexlara RISE Bundle Large,ERP,Tenants,1,92000.0,47840.0,83430.9176,9.31,True,False,False,False,83430.92,83430.92,Subscription,,True,Active,Current
+BOM-00333,Q-2025-00078,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5305.4624,8.53,True,False,False,False,5305.46,5305.46,Subscription,,True,Active,Current
+BOM-00334,Q-2025-00078,NX-ERP-PROC-TNT,Nexlara ERP Procurement,ERP,Tenants,1,8200.0,4264.0,7061.4798,13.88,True,False,False,False,7061.48,7061.48,Subscription,,True,Active,Current
+BOM-00335,Q-2025-00079,NX-AN-DW-TNT,Nexlara Analytics Data Warehouse,Analytics,Tenants,1,2200.0,1210.0,1551.2084,29.49,True,False,False,True,775.6,4653.63,Consumption,276.9376,True,Active,Current
+BOM-00336,Q-2025-00079,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2139.6972,10.85,True,False,False,False,2139.7,6419.09,Subscription,,True,Active,Current
+BOM-00337,Q-2025-00079,NX-AI-DOC-USR,Nexlara AI Document Intelligence,AI Add-on,Users,5000,16.0,10.4,14.1869,11.33,True,True,False,False,70934.5,212803.5,Subscription,,True,Active,Current
+BOM-00338,Q-2025-00080,NX-HCM-LM-USR,Nexlara HCM Learning Management,HCM,Users,750,28.0,15.4,17.9154,36.02,True,False,False,False,13436.55,13436.55,Subscription,,True,Active,Current
+BOM-00339,Q-2025-00080,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5219.6033,10.01,True,False,False,False,5219.6,5219.6,Subscription,,True,Active,Current
+BOM-00340,Q-2025-00081,NX-BDL-RISE-M,Nexlara RISE Bundle Medium,ERP,Tenants,1,48000.0,24960.0,38923.0567,18.91,True,False,False,False,38923.06,38923.06,Subscription,,True,Active,Current
+BOM-00341,Q-2025-00081,NX-ERP-SC-TNT,Nexlara ERP Supply Chain,ERP,Tenants,1,14000.0,7000.0,9651.7148,31.06,True,False,False,False,9651.71,9651.71,Subscription,,True,Active,Current
+BOM-00342,Q-2025-00081,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5242.7699,9.61,True,False,False,False,5242.77,5242.77,Subscription,,True,Active,Current
+BOM-00343,Q-2025-00082,NX-BDL-FULL-ENT,Nexlara Enterprise Full Bundle,ERP,Tenants,1,145000.0,75400.0,123653.2646,14.72,True,False,False,False,123653.26,370959.79,Subscription,,True,Active,Current
+BOM-00344,Q-2025-00082,NX-ERP-CX-TNT,Nexlara ERP Customer Experience,ERP,Tenants,1,7500.0,3900.0,6571.5774,12.38,True,False,False,True,3285.79,19714.73,Subscription,,True,Active,Current
+BOM-00345,Q-2025-00082,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2114.5339,11.89,True,False,False,True,1057.27,6343.6,Subscription,,True,Active,Current
+BOM-00346,Q-2025-00082,NX-AI-TOKN-CONS,Nexlara AI Token Credits,AI Add-on,Consumption Units,50000,0.004,0.0026,0.0035,12.07,True,True,False,True,87.5,525.0,Consumption,0.0004,True,Active,Current
+BOM-00347,Q-2025-00083,NX-HCM-PAY-EMP,Nexlara HCM Payroll Connect,HCM,Employees,300,22.0,12.1,16.7749,23.75,True,False,False,False,5032.47,5032.47,Subscription,,True,Active,Current
+BOM-00348,Q-2025-00083,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2168.0955,9.66,True,False,False,False,2168.1,2168.1,Subscription,,True,Active,Current
+BOM-00349,Q-2025-00084,NX-HCM-LM-USR,Nexlara HCM Learning Management,HCM,Users,1000,28.0,15.4,18.0172,35.65,True,False,False,True,9008.6,54051.6,Subscription,,True,Active,Current
+BOM-00350,Q-2025-00084,NX-SUP-STD,Nexlara Standard Support,Support,Tenants,1,2400.0,1680.0,2014.1326,16.08,True,False,False,True,1007.07,6042.4,Subscription,,True,Active,Current
+BOM-00351,Q-2025-00084,NX-AI-DOC-USR,Nexlara AI Document Intelligence,AI Add-on,Users,1500,16.0,10.4,13.428,16.08,True,True,False,True,10071.0,60426.0,Subscription,,True,Active,Current
+BOM-00352,Q-2025-00085,NX-SUP-ENT,Nexlara Enterprise Support,Support,Tenants,1,5800.0,4060.0,5174.3862,10.79,True,False,False,False,5174.39,5174.39,Subscription,,True,Active,Current
+BOM-00353,Q-2025-00085,NX-AN-ESG-USR,Nexlara Analytics ESG Reporting,Analytics,Users,300,38.0,20.9,26.0238,31.52,True,False,False,False,7807.14,7807.14,Subscription,,True,Active,Current
+BOM-00354,Q-2025-00085,NX-BDL-AN-S,Nexlara Analytics Bundle Starter,Analytics,Users,5000,44.0,24.2,34.9794,20.5,True,False,False,False,174897.0,174897.0,Subscription,,True,Active,Current
+BOM-00355,Q-2025-00085,NX-AI-CAP-STD,Nexlara AI Capacity Standard,AI Add-on,Consumption Units,100000,1.8,1.17,1.4419,19.89,True,True,False,False,144190.0,144190.0,Consumption,0.2697,True,Active,Current

@@ -1,0 +1,301 @@
+event_id,quote_id,event_type,actor_role,actor_id,timestamp,days_since_submission,comment_text,approver_ooo_flag
+EVT-00001,Q-2025-00001,Submitted,AE,AE-021,2025-03-28T00:00:00,0,,False
+EVT-00002,Q-2025-00001,Escalated,First Approver,APPR-010,2025-04-05T00:00:00,8,Escalated to Board for high-value deal approval.,False
+EVT-00003,Q-2025-00001,Rejected,First Approver,APPR-010,2025-04-29T00:00:00,32,,False
+EVT-00004,Q-2025-00001,Comment Added,First Approver,APPR-010,2025-04-30T00:00:00,34,Not approved in current form.,False
+EVT-00005,Q-2025-00001,Rejected,First Approver,APPR-010,2025-05-04T00:00:00,37,,False
+EVT-00006,Q-2025-00001,Comment Added,First Approver,APPR-010,2025-05-03T00:00:00,37,Auto-attached AI unit (NX-AI-CAP-STD) must have explicit customer acceptance documented.,False
+EVT-00007,Q-2025-00001,Rejected,First Approver,APPR-010,2025-05-05T00:00:00,38,,False
+EVT-00008,Q-2025-00001,Comment Added,First Approver,APPR-010,2025-05-07T00:00:00,42,Check the terms again.,False
+EVT-00009,Q-2025-00001,Rejected,First Approver,APPR-010,2025-05-12T00:00:00,45,Please confirm entitlement details.,False
+EVT-00010,Q-2025-00001,Resubmitted,AE,AE-021,2025-05-14T00:00:00,47,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00011,Q-2025-00002,Submitted,AE,AE-021,2025-01-19T00:00:00,0,,False
+EVT-00012,Q-2025-00002,Comment Added,First Approver,APPR-010,2025-01-20T00:00:00,1,MCCA not yet signed by customer. Cannot approve until MCCA execution confirmed.,False
+EVT-00013,Q-2025-00002,Rejected,First Approver,APPR-010,2025-01-21T00:00:00,2,Check auto-attached units.,False
+EVT-00014,Q-2025-00002,Resubmitted,AE,AE-021,2025-01-26T00:00:00,7,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00015,Q-2025-00003,Submitted,AE,AE-021,2025-03-29T00:00:00,0,,False
+EVT-00016,Q-2025-00003,Approved,First Approver,APPR-008,2025-04-01T00:00:00,3,,False
+EVT-00017,Q-2025-00003,Comment Added,First Approver,APPR-008,2025-04-01T00:00:00,5,Check the terms again.,False
+EVT-00018,Q-2025-00003,Rejected,First Approver,APPR-008,2025-04-05T00:00:00,7,Contract dates appear inconsistent.,False
+EVT-00019,Q-2025-00003,Resubmitted,AE,AE-021,2025-04-10T00:00:00,12,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00020,Q-2025-00004,Submitted,AE,AE-023,2025-03-28T00:00:00,0,,False
+EVT-00021,Q-2025-00004,Comment Added,First Approver,APPR-006,2025-03-31T00:00:00,3,Needs more detail on the business case.,True
+EVT-00022,Q-2025-00004,Rejected,First Approver,APPR-006,2025-04-04T00:00:00,7,,True
+EVT-00023,Q-2025-00004,Approved,First Approver,APPR-006,2025-04-03T00:00:00,6,,False
+EVT-00024,Q-2025-00004,Comment Added,First Approver,APPR-006,2025-04-05T00:00:00,8,Auto-attached AI unit (NX-AI-CAP-STD) must have explicit customer acceptance documented.,True
+EVT-00025,Q-2025-00004,Rejected,First Approver,APPR-006,2025-04-09T00:00:00,12,Please clarify the discount rationale.,False
+EVT-00026,Q-2025-00004,Resubmitted,AE,AE-023,2025-04-09T00:00:00,12,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00027,Q-2025-00005,Submitted,AE,AE-030,2025-04-14T00:00:00,0,,False
+EVT-00028,Q-2025-00005,Comment Added,First Approver,APPR-003,2025-04-15T00:00:00,3,Year-1 ACV is 34% of total contract value. Phasing rule requires minimum 50%. Adjust phasing.,False
+EVT-00029,Q-2025-00005,Approved,First Approver,APPR-003,2025-04-21T00:00:00,7,,False
+EVT-00030,Q-2025-00005,Approved,First Approver,APPR-003,2025-04-23T00:00:00,9,,False
+EVT-00031,Q-2025-00005,Approved,First Approver,APPR-003,2025-04-25T00:00:00,11,,False
+EVT-00032,Q-2025-00005,Rejected,First Approver,APPR-003,2025-04-26T00:00:00,12,Submission narrative is insufficient.,False
+EVT-00033,Q-2025-00005,Resubmitted,AE,AE-030,2025-04-26T00:00:00,12,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00034,Q-2025-00006,Submitted,AE,AE-030,2025-01-31T00:00:00,0,,False
+EVT-00035,Q-2025-00006,Comment Added,First Approver,APPR-007,2025-02-02T00:00:00,3,Business case is unclear. Resubmit with more context.,False
+EVT-00036,Q-2025-00006,Rejected,First Approver,APPR-007,2025-02-05T00:00:00,5,,False
+EVT-00037,Q-2025-00006,Comment Added,First Approver,APPR-007,2025-02-04T00:00:00,6,DHI-C-007 flag is open. SSP allocation required for this deal structure before approval.,False
+EVT-00038,Q-2025-00006,Rejected,First Approver,APPR-007,2025-02-07T00:00:00,7,Please review pricing before resubmission.,False
+EVT-00039,Q-2025-00006,Resubmitted,AE,AE-030,2025-02-09T00:00:00,9,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00040,Q-2025-00007,Submitted,AE,AE-039,2025-03-29T00:00:00,0,,False
+EVT-00041,Q-2025-00007,Rejected,First Approver,APPR-003,2025-04-04T00:00:00,6,,False
+EVT-00042,Q-2025-00007,Approved,First Approver,APPR-003,2025-04-05T00:00:00,7,,False
+EVT-00043,Q-2025-00007,Comment Added,First Approver,APPR-003,2025-04-05T00:00:00,8,Please clarify the discount rationale.,False
+EVT-00044,Q-2025-00007,Rejected,First Approver,APPR-003,2025-04-07T00:00:00,9,Please clarify the discount rationale.,False
+EVT-00045,Q-2025-00008,Submitted,AE,AE-009,2025-02-20T00:00:00,0,,False
+EVT-00046,Q-2025-00008,Rejected,First Approver,APPR-005,2025-02-24T00:00:00,4,Several items need attention — see flags.,False
+EVT-00047,Q-2025-00008,Resubmitted,AE,AE-009,2025-02-24T00:00:00,4,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00048,Q-2025-00009,Submitted,AE,AE-009,2025-03-30T00:00:00,0,,False
+EVT-00049,Q-2025-00009,Comment Added,First Approver,APPR-010,2025-03-31T00:00:00,3,MCCA not yet signed by customer. Cannot approve until MCCA execution confirmed.,False
+EVT-00050,Q-2025-00009,Rejected,First Approver,APPR-010,2025-04-04T00:00:00,5,Business case is unclear. Resubmit with more context.,False
+EVT-00051,Q-2025-00010,Submitted,AE,AE-038,2025-04-07T00:00:00,0,,False
+EVT-00052,Q-2025-00010,Comment Added,First Approver,APPR-002,2025-04-09T00:00:00,2,Business justification for discount >35% is absent. Attach margin analysis.,False
+EVT-00053,Q-2025-00010,Rejected,First Approver,APPR-002,2025-04-13T00:00:00,6,Please clarify the discount rationale.,False
+EVT-00054,Q-2025-00010,Resubmitted,AE,AE-038,2025-04-11T00:00:00,4,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00055,Q-2025-00011,Submitted,AE,AE-038,2025-04-18T00:00:00,0,,False
+EVT-00056,Q-2025-00012,Submitted,AE,AE-003,2025-05-05T00:00:00,0,,False
+EVT-00057,Q-2025-00012,Comment Added,First Approver,APPR-006,2025-05-07T00:00:00,4,DHI-C-007 flag is open. SSP allocation required for this deal structure before approval.,False
+EVT-00058,Q-2025-00012,Escalated,First Approver,APPR-006,2025-05-11T00:00:00,6,Escalated to Board for high-value deal approval.,False
+EVT-00059,Q-2025-00012,Approved,First Approver,APPR-006,2025-06-07T00:00:00,33,,False
+EVT-00060,Q-2025-00012,Comment Added,First Approver,APPR-006,2025-06-06T00:00:00,32,Review flagged items and resubmit.,False
+EVT-00061,Q-2025-00012,Rejected,First Approver,APPR-006,2025-06-10T00:00:00,36,,False
+EVT-00062,Q-2025-00012,Comment Added,First Approver,APPR-006,2025-06-08T00:00:00,36,Auto-attached AI unit (NX-AI-CAP-STD) must have explicit customer acceptance documented.,False
+EVT-00063,Q-2025-00012,Rejected,First Approver,APPR-006,2025-06-13T00:00:00,39,Review flagged items and resubmit.,False
+EVT-00064,Q-2025-00012,Resubmitted,AE,AE-003,2025-06-13T00:00:00,39,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00065,Q-2025-00013,Submitted,AE,AE-021,2025-03-31T00:00:00,0,,False
+EVT-00066,Q-2025-00013,Comment Added,First Approver,APPR-001,2025-04-01T00:00:00,1,Revenue recognition treatment needs clarification.,False
+EVT-00067,Q-2025-00013,Approved,First Approver,APPR-001,2025-04-05T00:00:00,5,,False
+EVT-00068,Q-2025-00013,Comment Added,First Approver,APPR-001,2025-04-03T00:00:00,5,SSP for Consumption line not documented. Required for ASC 606 compliance. Attach SSP schedule.,False
+EVT-00069,Q-2025-00013,Rejected,First Approver,APPR-001,2025-04-07T00:00:00,7,SSP for Consumption line not documented. Required for ASC 606 compliance. Attach SSP schedule.,False
+EVT-00070,Q-2025-00015,Submitted,AE,AE-003,2025-03-13T00:00:00,0,,False
+EVT-00071,Q-2025-00015,Comment Added,First Approver,APPR-003,2025-03-14T00:00:00,3,Pricing on line 3 is below LEP. Correct net price to at least €57.63 before resubmission.,False
+EVT-00072,Q-2025-00015,Rejected,First Approver,APPR-003,2025-03-20T00:00:00,7,,False
+EVT-00073,Q-2025-00015,Rejected,First Approver,APPR-003,2025-03-19T00:00:00,6,Auto-attached AI unit (NX-AI-CAP-STD) must have explicit customer acceptance documented.,False
+EVT-00074,Q-2025-00015,Resubmitted,AE,AE-003,2025-03-23T00:00:00,10,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00075,Q-2025-00016,Submitted,AE,AE-010,2025-03-31T00:00:00,0,,False
+EVT-00076,Q-2025-00016,Approved,First Approver,APPR-009,2025-04-05T00:00:00,5,,False
+EVT-00077,Q-2025-00018,Submitted,AE,AE-042,2025-03-31T00:00:00,0,,False
+EVT-00078,Q-2025-00019,Submitted,AE,AE-001,2025-03-28T00:00:00,0,,False
+EVT-00079,Q-2025-00019,Approved,First Approver,APPR-003,2025-04-02T00:00:00,5,,False
+EVT-00080,Q-2025-00019,Approved,First Approver,APPR-003,2025-04-04T00:00:00,7,,False
+EVT-00081,Q-2025-00020,Submitted,AE,AE-003,2025-04-24T00:00:00,0,,False
+EVT-00082,Q-2025-00020,Rejected,First Approver,APPR-004,2025-04-27T00:00:00,3,,False
+EVT-00083,Q-2025-00020,Rejected,First Approver,APPR-004,2025-04-30T00:00:00,6,SSP for Consumption line not documented. Required for ASC 606 compliance. Attach SSP schedule.,False
+EVT-00084,Q-2025-00021,Submitted,AE,AE-020,2025-03-25T00:00:00,0,,False
+EVT-00085,Q-2025-00021,Rejected,First Approver,APPR-010,2025-03-28T00:00:00,3,,False
+EVT-00086,Q-2025-00021,Approved,First Approver,APPR-010,2025-04-01T00:00:00,7,,False
+EVT-00087,Q-2025-00022,Submitted,AE,AE-021,2025-04-23T00:00:00,0,,False
+EVT-00088,Q-2025-00022,Comment Added,First Approver,APPR-006,2025-04-25T00:00:00,2,Pricing on line 3 is below LEP. Correct net price to at least €66.59 before resubmission.,True
+EVT-00089,Q-2025-00022,Rejected,First Approver,APPR-006,2025-04-27T00:00:00,4,Business justification for discount >35% is absent. Attach margin analysis.,True
+EVT-00090,Q-2025-00022,Resubmitted,AE,AE-021,2025-05-03T00:00:00,10,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00091,Q-2025-00023,Submitted,AE,AE-010,2025-03-29T00:00:00,0,,False
+EVT-00092,Q-2025-00023,Comment Added,First Approver,APPR-005,2025-03-31T00:00:00,2,DHI-C-007 flag is open. SSP allocation required for this deal structure before approval.,True
+EVT-00093,Q-2025-00023,Rejected,First Approver,APPR-005,2025-04-03T00:00:00,5,Business justification for discount >35% is absent. Attach margin analysis.,True
+EVT-00094,Q-2025-00023,Resubmitted,AE,AE-010,2025-04-04T00:00:00,6,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00095,Q-2025-00024,Submitted,AE,AE-039,2025-03-28T00:00:00,0,,False
+EVT-00096,Q-2025-00024,Comment Added,First Approver,APPR-004,2025-03-31T00:00:00,3,Auto-attached AI unit (NX-AI-CAP-STD) must have explicit customer acceptance documented.,False
+EVT-00097,Q-2025-00024,Rejected,First Approver,APPR-004,2025-04-02T00:00:00,5,DHI-C-007 flag is open. SSP allocation required for this deal structure before approval.,False
+EVT-00098,Q-2025-00024,Resubmitted,AE,AE-039,2025-04-03T00:00:00,6,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00099,Q-2025-00025,Submitted,AE,AE-010,2025-03-29T00:00:00,0,,False
+EVT-00100,Q-2025-00025,Comment Added,First Approver,APPR-005,2025-04-01T00:00:00,3,Pricing on line 3 is below LEP. Correct net price to at least €62.23 before resubmission.,False
+EVT-00101,Q-2025-00025,Rejected,First Approver,APPR-005,2025-04-02T00:00:00,4,Auto-attached AI unit (NX-AI-CAP-STD) must have explicit customer acceptance documented.,False
+EVT-00102,Q-2025-00025,Resubmitted,AE,AE-010,2025-04-05T00:00:00,7,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00103,Q-2025-00026,Submitted,AE,AE-001,2025-03-24T00:00:00,0,,False
+EVT-00104,Q-2025-00026,Comment Added,First Approver,APPR-007,2025-03-25T00:00:00,2,Year-1 ACV is 43% of total contract value. Phasing rule requires minimum 50%. Adjust phasing.,False
+EVT-00105,Q-2025-00026,Rejected,First Approver,APPR-007,2025-03-28T00:00:00,4,,False
+EVT-00106,Q-2025-00026,Comment Added,First Approver,APPR-007,2025-03-27T00:00:00,4,MCCA not yet signed by customer. Cannot approve until MCCA execution confirmed.,False
+EVT-00107,Q-2025-00026,Approved,First Approver,APPR-007,2025-03-29T00:00:00,5,,False
+EVT-00108,Q-2025-00026,Comment Added,First Approver,APPR-007,2025-03-30T00:00:00,8,MCCA not yet signed by customer. Cannot approve until MCCA execution confirmed.,False
+EVT-00109,Q-2025-00026,Rejected,First Approver,APPR-007,2025-04-04T00:00:00,11,,False
+EVT-00110,Q-2025-00026,Rejected,First Approver,APPR-007,2025-04-04T00:00:00,11,Year-1 ACV is 42% of total contract value. Phasing rule requires minimum 50%. Adjust phasing.,False
+EVT-00111,Q-2025-00026,Resubmitted,AE,AE-001,2025-04-05T00:00:00,12,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00112,Q-2025-00027,Submitted,AE,AE-042,2025-03-28T00:00:00,0,,False
+EVT-00113,Q-2025-00027,Comment Added,First Approver,APPR-009,2025-03-29T00:00:00,1,Pricing on line 3 is below LEP. Correct net price to at least €52.41 before resubmission.,False
+EVT-00114,Q-2025-00027,Rejected,First Approver,APPR-009,2025-03-31T00:00:00,3,,False
+EVT-00115,Q-2025-00027,Comment Added,First Approver,APPR-009,2025-03-30T00:00:00,4,Pricing on line 3 is below LEP. Correct net price to at least €58.19 before resubmission.,False
+EVT-00116,Q-2025-00027,Rejected,First Approver,APPR-009,2025-04-03T00:00:00,6,,False
+EVT-00117,Q-2025-00027,Comment Added,First Approver,APPR-009,2025-04-03T00:00:00,8,Pricing on line 3 is below LEP. Correct net price to at least €58.12 before resubmission.,False
+EVT-00118,Q-2025-00027,Rejected,First Approver,APPR-009,2025-04-06T00:00:00,9,DHI-C-007 flag is open. SSP allocation required for this deal structure before approval.,False
+EVT-00119,Q-2025-00027,Resubmitted,AE,AE-042,2025-04-11T00:00:00,14,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00120,Q-2025-00028,Submitted,AE,AE-009,2025-03-30T00:00:00,0,,False
+EVT-00121,Q-2025-00028,Rejected,First Approver,APPR-007,2025-04-04T00:00:00,5,SSP for Consumption line not documented. Required for ASC 606 compliance. Attach SSP schedule.,False
+EVT-00122,Q-2025-00028,Resubmitted,AE,AE-009,2025-04-08T00:00:00,9,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00123,Q-2025-00029,Submitted,AE,AE-020,2025-03-29T00:00:00,0,,False
+EVT-00124,Q-2025-00029,Comment Added,First Approver,APPR-005,2025-04-01T00:00:00,4,Year-1 ACV is 35% of total contract value. Phasing rule requires minimum 50%. Adjust phasing.,False
+EVT-00125,Q-2025-00029,Escalated,First Approver,APPR-005,2025-04-07T00:00:00,9,Escalated to Board for high-value deal approval.,False
+EVT-00126,Q-2025-00029,Rejected,First Approver,APPR-005,2025-05-02T00:00:00,34,,False
+EVT-00127,Q-2025-00029,Comment Added,First Approver,APPR-005,2025-04-30T00:00:00,33,SSP for Consumption line not documented. Required for ASC 606 compliance. Attach SSP schedule.,False
+EVT-00128,Q-2025-00029,Rejected,First Approver,APPR-005,2025-05-03T00:00:00,35,Business justification for discount >35% is absent. Attach margin analysis.,False
+EVT-00129,Q-2025-00029,Resubmitted,AE,AE-020,2025-05-04T00:00:00,36,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00130,Q-2025-00030,Submitted,AE,AE-010,2025-03-30T00:00:00,0,,False
+EVT-00131,Q-2025-00030,Comment Added,First Approver,APPR-004,2025-03-31T00:00:00,2,MCCA not yet signed by customer. Cannot approve until MCCA execution confirmed.,False
+EVT-00132,Q-2025-00030,Rejected,First Approver,APPR-004,2025-04-04T00:00:00,5,Year-1 ACV is 29% of total contract value. Phasing rule requires minimum 50%. Adjust phasing.,False
+EVT-00133,Q-2025-00030,Resubmitted,AE,AE-010,2025-04-07T00:00:00,8,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00134,Q-2025-00031,Submitted,AE,AE-042,2025-04-27T00:00:00,0,,False
+EVT-00135,Q-2025-00031,Comment Added,First Approver,APPR-006,2025-04-28T00:00:00,3,Year-1 ACV is 31% of total contract value. Phasing rule requires minimum 50%. Adjust phasing.,False
+EVT-00136,Q-2025-00031,Rejected,First Approver,APPR-006,2025-05-01T00:00:00,4,,False
+EVT-00137,Q-2025-00031,Rejected,First Approver,APPR-006,2025-05-06T00:00:00,9,Auto-attached AI unit (NX-AI-CAP-STD) must have explicit customer acceptance documented.,False
+EVT-00138,Q-2025-00031,Resubmitted,AE,AE-042,2025-05-08T00:00:00,11,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00139,Q-2025-00032,Submitted,AE,AE-023,2025-03-29T00:00:00,0,,False
+EVT-00140,Q-2025-00032,Approved,First Approver,APPR-010,2025-04-03T00:00:00,5,,False
+EVT-00141,Q-2025-00033,Submitted,AE,AE-009,2025-03-28T00:00:00,0,,False
+EVT-00142,Q-2025-00033,Approved,First Approver,APPR-005,2025-04-04T00:00:00,7,,False
+EVT-00143,Q-2025-00033,Rejected,First Approver,APPR-005,2025-04-02T00:00:00,5,Year-1 ACV is 31% of total contract value. Phasing rule requires minimum 50%. Adjust phasing.,False
+EVT-00144,Q-2025-00033,Resubmitted,AE,AE-009,2025-04-04T00:00:00,7,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00145,Q-2025-00034,Submitted,AE,AE-004,2025-01-22T00:00:00,0,,False
+EVT-00146,Q-2025-00034,Comment Added,First Approver,APPR-003,2025-01-23T00:00:00,1,Auto-attached AI unit (NX-AI-CAP-STD) must have explicit customer acceptance documented.,False
+EVT-00147,Q-2025-00034,Rejected,First Approver,APPR-003,2025-01-25T00:00:00,3,DHI-C-007 flag is open. SSP allocation required for this deal structure before approval.,False
+EVT-00148,Q-2025-00034,Resubmitted,AE,AE-004,2025-01-25T00:00:00,3,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00149,Q-2025-00035,Submitted,AE,AE-036,2025-03-04T00:00:00,0,,False
+EVT-00150,Q-2025-00035,Rejected,First Approver,APPR-002,2025-03-07T00:00:00,3,,True
+EVT-00151,Q-2025-00035,Comment Added,First Approver,APPR-002,2025-03-08T00:00:00,5,MCCA not yet signed by customer. Cannot approve until MCCA execution confirmed.,True
+EVT-00152,Q-2025-00035,Rejected,First Approver,APPR-002,2025-03-12T00:00:00,8,SSP for Consumption line not documented. Required for ASC 606 compliance. Attach SSP schedule.,False
+EVT-00153,Q-2025-00035,Resubmitted,AE,AE-036,2025-03-15T00:00:00,11,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00154,Q-2025-00036,Submitted,AE,AE-001,2025-03-28T00:00:00,0,,False
+EVT-00155,Q-2025-00036,Comment Added,First Approver,APPR-004,2025-03-30T00:00:00,3,SSP for Consumption line not documented. Required for ASC 606 compliance. Attach SSP schedule.,False
+EVT-00156,Q-2025-00036,Rejected,First Approver,APPR-004,2025-04-02T00:00:00,5,,False
+EVT-00157,Q-2025-00036,Rejected,First Approver,APPR-004,2025-04-06T00:00:00,9,DHI-C-007 flag is open. SSP allocation required for this deal structure before approval.,False
+EVT-00158,Q-2025-00036,Resubmitted,AE,AE-001,2025-04-09T00:00:00,12,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00159,Q-2025-00037,Submitted,AE,AE-036,2025-03-09T00:00:00,0,,False
+EVT-00160,Q-2025-00037,Comment Added,First Approver,APPR-008,2025-03-11T00:00:00,4,MCCA not yet signed by customer. Cannot approve until MCCA execution confirmed.,False
+EVT-00161,Q-2025-00037,Rejected,First Approver,APPR-008,2025-03-16T00:00:00,7,SSP for Consumption line not documented. Required for ASC 606 compliance. Attach SSP schedule.,False
+EVT-00162,Q-2025-00037,Resubmitted,AE,AE-036,2025-03-16T00:00:00,7,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00163,Q-2025-00038,Submitted,AE,AE-004,2025-04-21T00:00:00,0,,False
+EVT-00164,Q-2025-00038,Rejected,First Approver,APPR-010,2025-04-25T00:00:00,4,Pricing on line 3 is below LEP. Correct net price to at least €63.43 before resubmission.,False
+EVT-00165,Q-2025-00038,Resubmitted,AE,AE-004,2025-04-28T00:00:00,7,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00166,Q-2025-00039,Submitted,AE,AE-020,2025-02-19T00:00:00,0,,False
+EVT-00167,Q-2025-00039,Approved,First Approver,APPR-009,2025-02-24T00:00:00,5,,False
+EVT-00168,Q-2025-00039,Comment Added,First Approver,APPR-009,2025-02-24T00:00:00,6,Pricing on line 3 is below LEP. Correct net price to at least €82.03 before resubmission.,False
+EVT-00169,Q-2025-00039,Rejected,First Approver,APPR-009,2025-02-28T00:00:00,9,SSP for Consumption line not documented. Required for ASC 606 compliance. Attach SSP schedule.,False
+EVT-00170,Q-2025-00039,Resubmitted,AE,AE-020,2025-02-27T00:00:00,8,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00171,Q-2025-00040,Submitted,AE,AE-021,2025-02-22T00:00:00,0,,False
+EVT-00172,Q-2025-00040,Comment Added,First Approver,APPR-005,2025-02-23T00:00:00,3,DHI-C-007 flag is open. SSP allocation required for this deal structure before approval.,False
+EVT-00173,Q-2025-00040,Rejected,First Approver,APPR-005,2025-02-28T00:00:00,6,SSP for Consumption line not documented. Required for ASC 606 compliance. Attach SSP schedule.,False
+EVT-00174,Q-2025-00040,Resubmitted,AE,AE-021,2025-02-27T00:00:00,5,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00175,Q-2025-00041,Submitted,AE,AE-003,2025-03-28T00:00:00,0,,False
+EVT-00176,Q-2025-00041,Rejected,First Approver,APPR-004,2025-03-31T00:00:00,3,,False
+EVT-00177,Q-2025-00041,Rejected,First Approver,APPR-004,2025-04-05T00:00:00,8,DHI-C-007 flag is open. SSP allocation required for this deal structure before approval.,False
+EVT-00178,Q-2025-00041,Resubmitted,AE,AE-003,2025-04-05T00:00:00,8,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00179,Q-2025-00042,Submitted,AE,AE-042,2025-04-10T00:00:00,0,,False
+EVT-00180,Q-2025-00042,Escalated,First Approver,APPR-004,2025-04-17T00:00:00,7,Escalated to Board for high-value deal approval.,False
+EVT-00181,Q-2025-00042,Rejected,First Approver,APPR-004,2025-05-13T00:00:00,33,MCCA not yet signed by customer. Cannot approve until MCCA execution confirmed.,False
+EVT-00182,Q-2025-00042,Resubmitted,AE,AE-042,2025-05-15T00:00:00,35,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00183,Q-2025-00043,Submitted,AE,AE-001,2025-03-29T00:00:00,0,,False
+EVT-00184,Q-2025-00043,Comment Added,First Approver,APPR-006,2025-03-30T00:00:00,2,Business justification for discount >35% is absent. Attach margin analysis.,False
+EVT-00185,Q-2025-00043,Rejected,First Approver,APPR-006,2025-04-01T00:00:00,3,Auto-attached AI unit (NX-AI-CAP-STD) must have explicit customer acceptance documented.,False
+EVT-00186,Q-2025-00043,Resubmitted,AE,AE-001,2025-04-05T00:00:00,7,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00187,Q-2025-00044,Submitted,AE,AE-038,2025-03-03T00:00:00,0,,False
+EVT-00188,Q-2025-00044,Rejected,First Approver,APPR-005,2025-03-06T00:00:00,3,,False
+EVT-00189,Q-2025-00044,Rejected,First Approver,APPR-005,2025-03-09T00:00:00,6,Auto-attached AI unit (NX-AI-CAP-STD) must have explicit customer acceptance documented.,False
+EVT-00190,Q-2025-00044,Resubmitted,AE,AE-038,2025-03-12T00:00:00,9,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00191,Q-2025-00045,Submitted,AE,AE-030,2025-04-08T00:00:00,0,,False
+EVT-00192,Q-2025-00045,Comment Added,First Approver,APPR-008,2025-04-09T00:00:00,3,Auto-attached AI unit (NX-AI-CAP-STD) must have explicit customer acceptance documented.,False
+EVT-00193,Q-2025-00045,Approved,First Approver,APPR-008,2025-04-15T00:00:00,7,,False
+EVT-00194,Q-2025-00045,Comment Added,First Approver,APPR-008,2025-04-12T00:00:00,4,MCCA not yet signed by customer. Cannot approve until MCCA execution confirmed.,False
+EVT-00195,Q-2025-00045,Rejected,First Approver,APPR-008,2025-04-13T00:00:00,5,,False
+EVT-00196,Q-2025-00045,Comment Added,First Approver,APPR-008,2025-04-13T00:00:00,5,Pricing on line 3 is below LEP. Correct net price to at least €66.58 before resubmission.,False
+EVT-00197,Q-2025-00045,Approved,First Approver,APPR-008,2025-04-16T00:00:00,8,,False
+EVT-00198,Q-2025-00045,Rejected,First Approver,APPR-008,2025-04-18T00:00:00,10,Year-1 ACV is 28% of total contract value. Phasing rule requires minimum 50%. Adjust phasing.,False
+EVT-00199,Q-2025-00045,Resubmitted,AE,AE-030,2025-04-19T00:00:00,11,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00200,Q-2025-00046,Submitted,AE,AE-036,2025-03-28T00:00:00,0,,False
+EVT-00201,Q-2025-00046,Approved,First Approver,APPR-001,2025-04-02T00:00:00,5,,False
+EVT-00202,Q-2025-00046,Rejected,First Approver,APPR-001,2025-04-02T00:00:00,5,,False
+EVT-00203,Q-2025-00046,Approved,First Approver,APPR-001,2025-04-06T00:00:00,9,,False
+EVT-00204,Q-2025-00047,Submitted,AE,AE-004,2025-03-03T00:00:00,0,,False
+EVT-00205,Q-2025-00048,Submitted,AE,AE-023,2025-02-19T00:00:00,0,,False
+EVT-00206,Q-2025-00048,Comment Added,First Approver,APPR-002,2025-02-22T00:00:00,3,SSP for Consumption line not documented. Required for ASC 606 compliance. Attach SSP schedule.,True
+EVT-00207,Q-2025-00048,Approved,First Approver,APPR-002,2025-02-23T00:00:00,4,,True
+EVT-00208,Q-2025-00048,Comment Added,First Approver,APPR-002,2025-02-25T00:00:00,6,DHI-C-007 flag is open. SSP allocation required for this deal structure before approval.,True
+EVT-00209,Q-2025-00048,Rejected,First Approver,APPR-002,2025-02-27T00:00:00,8,,False
+EVT-00210,Q-2025-00048,Comment Added,First Approver,APPR-002,2025-02-26T00:00:00,8,Pricing on line 3 is below LEP. Correct net price to at least €49.09 before resubmission.,True
+EVT-00211,Q-2025-00048,Rejected,First Approver,APPR-002,2025-03-02T00:00:00,11,Auto-attached AI unit (NX-AI-CAP-STD) must have explicit customer acceptance documented.,False
+EVT-00212,Q-2025-00048,Resubmitted,AE,AE-023,2025-03-07T00:00:00,16,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00213,Q-2025-00049,Submitted,AE,AE-021,2025-03-31T00:00:00,0,,False
+EVT-00214,Q-2025-00049,Comment Added,First Approver,APPR-002,2025-04-01T00:00:00,1,Pricing on line 3 is below LEP. Correct net price to at least €81.88 before resubmission.,False
+EVT-00215,Q-2025-00049,Rejected,First Approver,APPR-002,2025-04-03T00:00:00,3,Business justification for discount >35% is absent. Attach margin analysis.,False
+EVT-00216,Q-2025-00049,Resubmitted,AE,AE-021,2025-04-07T00:00:00,7,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00217,Q-2025-00050,Submitted,AE,AE-039,2025-01-22T00:00:00,0,,False
+EVT-00218,Q-2025-00050,Rejected,First Approver,APPR-006,2025-01-24T00:00:00,2,Year-1 ACV is 43% of total contract value. Phasing rule requires minimum 50%. Adjust phasing.,False
+EVT-00219,Q-2025-00050,Resubmitted,AE,AE-039,2025-01-30T00:00:00,8,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00220,Q-2025-00051,Submitted,AE,AE-029,2025-03-28T00:00:00,0,,False
+EVT-00221,Q-2025-00051,Approved,First Approver,APPR-001,2025-03-30T00:00:00,2,,False
+EVT-00222,Q-2025-00051,Approved,First Approver,APPR-001,2025-04-04T00:00:00,7,,False
+EVT-00223,Q-2025-00051,Approved,First Approver,APPR-001,2025-04-04T00:00:00,7,,False
+EVT-00224,Q-2025-00051,Approved,First Approver,APPR-001,2025-04-06T00:00:00,9,,False
+EVT-00225,Q-2025-00052,Submitted,AE,AE-005,2025-03-31T00:00:00,0,,False
+EVT-00226,Q-2025-00053,Submitted,AE,AE-035,2025-03-31T00:00:00,0,,False
+EVT-00227,Q-2025-00053,Approved,First Approver,APPR-008,2025-04-03T00:00:00,3,,False
+EVT-00228,Q-2025-00053,Comment Added,First Approver,APPR-008,2025-04-04T00:00:00,5,SSP for Consumption line not documented. Required for ASC 606 compliance. Attach SSP schedule.,False
+EVT-00229,Q-2025-00053,Rejected,First Approver,APPR-008,2025-04-09T00:00:00,9,Year-1 ACV is 37% of total contract value. Phasing rule requires minimum 50%. Adjust phasing.,False
+EVT-00230,Q-2025-00054,Submitted,AE,AE-042,2025-03-29T00:00:00,0,,False
+EVT-00231,Q-2025-00054,Rejected,First Approver,APPR-003,2025-04-03T00:00:00,5,Business justification for discount >35% is absent. Attach margin analysis.,False
+EVT-00232,Q-2025-00055,Submitted,AE,AE-020,2025-03-30T00:00:00,0,,False
+EVT-00233,Q-2025-00055,Rejected,First Approver,APPR-002,2025-04-05T00:00:00,6,,False
+EVT-00234,Q-2025-00055,Approved,First Approver,APPR-002,2025-04-05T00:00:00,6,,False
+EVT-00235,Q-2025-00056,Submitted,AE,AE-028,2025-03-31T00:00:00,0,,False
+EVT-00236,Q-2025-00058,Submitted,AE,AE-017,2025-04-17T00:00:00,0,,False
+EVT-00237,Q-2025-00058,Approved,First Approver,APPR-007,2025-04-20T00:00:00,3,,False
+EVT-00238,Q-2025-00059,Submitted,AE,AE-018,2025-04-01T00:00:00,0,,False
+EVT-00239,Q-2025-00059,Approved,First Approver,APPR-003,2025-04-04T00:00:00,3,,False
+EVT-00240,Q-2025-00060,Submitted,AE,AE-015,2025-03-31T00:00:00,0,,False
+EVT-00241,Q-2025-00060,Approved,First Approver,APPR-009,2025-04-05T00:00:00,5,,False
+EVT-00242,Q-2025-00061,Submitted,AE,AE-021,2025-04-26T00:00:00,0,,False
+EVT-00243,Q-2025-00061,Approved,First Approver,APPR-005,2025-05-01T00:00:00,5,,False
+EVT-00244,Q-2025-00061,Rejected,First Approver,APPR-005,2025-05-03T00:00:00,7,DHI-C-007 flag is open. SSP allocation required for this deal structure before approval.,False
+EVT-00245,Q-2025-00062,Submitted,AE,AE-005,2025-05-06T00:00:00,0,,False
+EVT-00246,Q-2025-00063,Submitted,AE,AE-004,2025-03-31T00:00:00,0,,False
+EVT-00247,Q-2025-00063,Rejected,First Approver,APPR-005,2025-04-07T00:00:00,7,SSP for Consumption line not documented. Required for ASC 606 compliance. Attach SSP schedule.,False
+EVT-00248,Q-2025-00064,Submitted,AE,AE-013,2025-03-30T00:00:00,0,,False
+EVT-00249,Q-2025-00064,Rejected,First Approver,APPR-001,2025-04-04T00:00:00,5,,False
+EVT-00250,Q-2025-00064,Approved,First Approver,APPR-001,2025-04-04T00:00:00,5,,False
+EVT-00251,Q-2025-00065,Submitted,AE,AE-014,2025-03-31T00:00:00,0,,False
+EVT-00252,Q-2025-00065,Approved,First Approver,APPR-008,2025-04-04T00:00:00,4,,False
+EVT-00253,Q-2025-00066,Submitted,AE,AE-005,2025-04-07T00:00:00,0,,False
+EVT-00254,Q-2025-00066,Approved,First Approver,APPR-009,2025-04-12T00:00:00,5,,False
+EVT-00255,Q-2025-00066,Rejected,First Approver,APPR-009,2025-04-16T00:00:00,9,,False
+EVT-00256,Q-2025-00066,Rejected,First Approver,APPR-009,2025-04-18T00:00:00,11,,False
+EVT-00257,Q-2025-00066,Approved,First Approver,APPR-009,2025-04-19T00:00:00,12,,False
+EVT-00258,Q-2025-00067,Submitted,AE,AE-036,2025-02-07T00:00:00,0,,False
+EVT-00259,Q-2025-00067,Approved,First Approver,APPR-008,2025-02-13T00:00:00,6,,False
+EVT-00260,Q-2025-00068,Submitted,AE,AE-003,2025-04-27T00:00:00,0,,False
+EVT-00261,Q-2025-00068,Approved,First Approver,APPR-005,2025-05-01T00:00:00,4,,False
+EVT-00262,Q-2025-00069,Submitted,AE,AE-040,2025-02-06T00:00:00,0,,False
+EVT-00263,Q-2025-00070,Submitted,AE,AE-013,2025-03-21T00:00:00,0,,False
+EVT-00264,Q-2025-00073,Submitted,AE,AE-031,2025-04-26T00:00:00,0,,False
+EVT-00265,Q-2025-00074,Submitted,AE,AE-005,2025-02-18T00:00:00,0,,False
+EVT-00266,Q-2025-00074,Rejected,First Approver,APPR-001,2025-02-24T00:00:00,6,,False
+EVT-00267,Q-2025-00074,Comment Added,First Approver,APPR-001,2025-02-21T00:00:00,5,DHI-C-007 flag is open. SSP allocation required for this deal structure before approval.,False
+EVT-00268,Q-2025-00074,Rejected,First Approver,APPR-001,2025-02-27T00:00:00,9,SSP for Consumption line not documented. Required for ASC 606 compliance. Attach SSP schedule.,False
+EVT-00269,Q-2025-00074,Resubmitted,AE,AE-005,2025-02-26T00:00:00,8,Addressed reviewer comments. Resubmitting for approval.,False
+EVT-00270,Q-2025-00075,Submitted,AE,AE-005,2025-03-28T00:00:00,0,,False
+EVT-00271,Q-2025-00075,Rejected,First Approver,APPR-004,2025-04-04T00:00:00,7,SSP for Consumption line not documented. Required for ASC 606 compliance. Attach SSP schedule.,False
+EVT-00272,Q-2025-00076,Submitted,AE,AE-004,2025-02-05T00:00:00,0,,False
+EVT-00273,Q-2025-00076,Rejected,First Approver,APPR-009,2025-02-10T00:00:00,5,,False
+EVT-00274,Q-2025-00076,Rejected,First Approver,APPR-009,2025-02-11T00:00:00,6,,False
+EVT-00275,Q-2025-00076,Approved,First Approver,APPR-009,2025-02-11T00:00:00,6,,False
+EVT-00276,Q-2025-00077,Submitted,AE,AE-021,2025-03-21T00:00:00,0,,False
+EVT-00277,Q-2025-00077,Approved,First Approver,APPR-005,2025-03-25T00:00:00,4,,False
+EVT-00278,Q-2025-00077,Approved,First Approver,APPR-005,2025-03-28T00:00:00,7,,False
+EVT-00279,Q-2025-00078,Submitted,AE,AE-025,2025-04-11T00:00:00,0,,False
+EVT-00280,Q-2025-00078,Comment Added,First Approver,APPR-008,2025-04-12T00:00:00,2,SSP for Consumption line not documented. Required for ASC 606 compliance. Attach SSP schedule.,False
+EVT-00281,Q-2025-00078,Approved,First Approver,APPR-008,2025-04-15T00:00:00,4,,False
+EVT-00282,Q-2025-00078,Rejected,First Approver,APPR-008,2025-04-16T00:00:00,5,DHI-C-007 flag is open. SSP allocation required for this deal structure before approval.,False
+EVT-00283,Q-2025-00079,Submitted,AE,AE-034,2025-03-28T00:00:00,0,,False
+EVT-00284,Q-2025-00079,Rejected,First Approver,APPR-002,2025-03-30T00:00:00,2,,False
+EVT-00285,Q-2025-00079,Approved,First Approver,APPR-002,2025-04-04T00:00:00,7,,False
+EVT-00286,Q-2025-00080,Submitted,AE,AE-019,2025-01-31T00:00:00,0,,False
+EVT-00287,Q-2025-00081,Submitted,AE,AE-027,2025-01-31T00:00:00,0,,False
+EVT-00288,Q-2025-00082,Submitted,AE,AE-014,2025-02-13T00:00:00,0,,False
+EVT-00289,Q-2025-00083,Submitted,AE,AE-028,2025-03-30T00:00:00,0,,False
+EVT-00290,Q-2025-00083,Comment Added,First Approver,APPR-002,2025-04-02T00:00:00,4,SSP for Consumption line not documented. Required for ASC 606 compliance. Attach SSP schedule.,False
+EVT-00291,Q-2025-00083,Rejected,First Approver,APPR-002,2025-04-04T00:00:00,5,,False
+EVT-00292,Q-2025-00083,Rejected,First Approver,APPR-002,2025-04-06T00:00:00,7,Auto-attached AI unit (NX-AI-CAP-STD) must have explicit customer acceptance documented.,False
+EVT-00293,Q-2025-00084,Submitted,AE,AE-005,2025-03-31T00:00:00,0,,False
+EVT-00294,Q-2025-00085,Submitted,AE,AE-033,2025-04-03T00:00:00,0,,False
+EVT-00295,Q-2025-00085,Comment Added,First Approver,APPR-002,2025-04-05T00:00:00,3,Year-1 ACV is 30% of total contract value. Phasing rule requires minimum 50%. Adjust phasing.,False
+EVT-00296,Q-2025-00085,Approved,First Approver,APPR-002,2025-04-08T00:00:00,5,,False
+EVT-00297,Q-2025-00085,Comment Added,First Approver,APPR-002,2025-04-07T00:00:00,6,SSP for Consumption line not documented. Required for ASC 606 compliance. Attach SSP schedule.,False
+EVT-00298,Q-2025-00085,Rejected,First Approver,APPR-002,2025-04-10T00:00:00,7,,False
+EVT-00299,Q-2025-00085,Comment Added,First Approver,APPR-002,2025-04-12T00:00:00,10,Auto-attached AI unit (NX-AI-CAP-STD) must have explicit customer acceptance documented.,False
+EVT-00300,Q-2025-00085,Rejected,First Approver,APPR-002,2025-04-17T00:00:00,14,SSP for Consumption line not documented. Required for ASC 606 compliance. Attach SSP schedule.,False

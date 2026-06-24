@@ -1,0 +1,121 @@
+opp_id,account_name,account_segment,geography,deal_motion,product_line,estimated_acv_eur,contract_years,opp_stage,sales_rep_id,fbs_assigned,open_days,close_date_target,renewal_risk_score
+OPP-2025-00001,Caldwell Industrials,Corporate,DACH,Restructure,HCM,225820,2,Qualification,AE-007,True,105,2025-07-06,
+OPP-2025-00002,Memphis Transport,Enterprise,Nordics,Renewal,HCM,1067526,3,Closed Won,AE-040,True,150,2025-08-22,0.11
+OPP-2025-00003,Antwerp Trade NV,Enterprise,DACH,Net New,ERP,224729,3,Closed Won,AE-010,True,108,2025-08-01,
+OPP-2025-00004,Bielefeld Logistics AG,Corporate,Nordics,Upsell,ERP,140040,1,Qualification,AE-040,True,87,2025-08-18,
+OPP-2025-00005,Charlotte Banking,Enterprise,DACH,Renewal,Bundle,892247,3,Closed Lost,AE-005,True,137,2025-05-28,0.8
+OPP-2025-00006,Frankfurt Finance AG,Corporate,Nordics,Renewal,HCM,361985,2,Proposal,AE-040,True,67,2025-07-12,0.28
+OPP-2025-00007,Dresden Technology GmbH,Enterprise,DACH,Upsell,ERP,1367092,3,Negotiation,AE-014,True,21,2025-07-24,
+OPP-2025-00008,Mannheim Chemicals AG,Corporate,DACH,Net New,Bundle,307810,1,Proposal,AE-012,True,18,2025-09-01,
+OPP-2025-00009,Neuchatel Digital SA,Corporate,DACH,Upsell,HCM,154647,1,Closed Won,AE-001,True,62,2025-06-10,
+OPP-2025-00010,Hamburg Maritime AG,Corporate,Benelux,Renewal,Analytics,139276,2,Approval,AE-033,True,80,2025-07-11,0.19
+OPP-2025-00011,Marseille Chemicals,Corporate,DACH,Upsell,HCM,188073,1,Approval,AE-001,True,90,2025-07-03,
+OPP-2025-00012,Boston Biotech,Enterprise,Benelux,Net New,ERP,4148813,3,Closed Won,AE-031,True,161,2025-06-25,
+OPP-2025-00013,Phoenix Distribution,Corporate,DACH,Renewal,Bundle,183116,3,Closed Won,AE-004,True,145,2025-09-02,0.12
+OPP-2025-00014,Zurich Capital Partners,Enterprise,ANZ,Upsell,HCM,2322153,2,Closed Won,AE-041,True,126,2025-06-07,
+OPP-2025-00015,Thun Innovations AG,Enterprise,North America,Renewal,ERP,2865837,3,Closed Won,AE-026,True,112,2025-06-16,0.82
+OPP-2025-00016,Montreal Services,Enterprise,Benelux,Net New,Analytics,3589833,3,Approval,AE-034,True,152,2025-06-28,
+OPP-2025-00017,Bern Precision AG,Enterprise,North America,Renewal,HCM,3684338,3,Closed Won,AE-023,False,63,2025-08-29,0.36
+OPP-2025-00018,Vilnius Digital,Enterprise,DACH,Cross-sell,ERP,320376,2,Approval,AE-011,True,42,2025-07-26,
+OPP-2025-00019,Munich Tech GmbH,Enterprise,DACH,Renewal,ERP,1372972,3,Closed Won,AE-009,True,133,2025-06-18,0.15
+OPP-2025-00020,Wellington Construct,Enterprise,Benelux,Cross-sell,ERP,2528577,3,Approval,AE-036,True,126,2025-07-21,
+OPP-2025-00021,Fribourg Analytics SA,Corporate,North America,Upsell,HCM,179264,1,Negotiation,AE-030,False,170,2025-08-07,
+OPP-2025-00022,Tallinn Systems,Enterprise,DACH,Cross-sell,ERP,3328679,2,Closed Won,AE-012,False,70,2025-07-03,
+OPP-2025-00023,Louisville Distribution,Enterprise,North America,Net New,HCM,706067,3,Proposal,AE-024,True,138,2025-08-30,
+OPP-2025-00024,Riga Partners,Corporate,Nordics,Net New,HCM,138447,3,Closed Won,AE-039,False,135,2025-08-09,
+OPP-2025-00025,Bern Healthcare AG,Corporate,North America,Renewal,HCM,180318,1,Negotiation,AE-021,True,137,2025-06-10,0.25
+OPP-2025-00026,Austin Startups,Enterprise,ANZ,Net New,Bundle,4159798,1,Proposal,AE-042,True,4,2025-08-06,
+OPP-2025-00027,Toronto Financial,Enterprise,North America,Restructure,ERP,2207872,2,Closed Lost,AE-021,True,65,2025-09-12,
+OPP-2025-00028,Denver Analytics,Enterprise,Nordics,Renewal,HCM,3648202,1,Qualification,AE-040,False,162,2025-08-20,0.13
+OPP-2025-00029,Düsseldorf Trade AG,Corporate,DACH,Renewal,Analytics,184297,1,Proposal,AE-008,True,107,2025-08-10,0.43
+OPP-2025-00030,Ljubljana Holdings,Enterprise,Benelux,Net New,ERP,4010543,2,Closed Lost,AE-035,True,79,2025-08-05,
+OPP-2025-00031,Richmond Financial,Corporate,North America,Upsell,Analytics,77026,3,Approval,AE-022,False,71,2025-06-21,
+OPP-2025-00032,Sydney Growth Partners,Corporate,North America,Net New,HCM,150758,1,Proposal,AE-020,True,105,2025-07-21,
+OPP-2025-00033,Lyon Industrial,Enterprise,DACH,Renewal,ERP,336901,1,Closed Won,AE-010,True,117,2025-06-03,0.95
+OPP-2025-00034,Miami International,Corporate,Benelux,Cross-sell,ERP,85175,2,Proposal,AE-036,False,69,2025-09-07,
+OPP-2025-00035,Mainz Media GmbH,Corporate,North America,Upsell,HCM,186277,2,Approval,AE-028,True,89,2025-06-30,
+OPP-2025-00036,Chicago Manufacturing,Enterprise,DACH,Cross-sell,Bundle,1475450,2,Approval,AE-009,True,63,2025-08-02,
+OPP-2025-00037,Berlin Innovations GmbH,Enterprise,DACH,Upsell,ERP,537397,2,Approval,AE-014,True,78,2025-07-05,
+OPP-2025-00038,Brussels Finance,Enterprise,North America,Upsell,HCM,583052,1,Closed Won,AE-029,True,148,2025-08-08,
+OPP-2025-00039,Albany Healthcare,Corporate,Nordics,Renewal,Bundle,166301,2,Approval,AE-038,False,167,2025-07-20,0.6
+OPP-2025-00040,Providence Digital,Enterprise,DACH,Cross-sell,Bundle,3615190,2,Approval,AE-003,True,105,2025-07-06,
+OPP-2025-00041,Münster Financial GmbH,Enterprise,North America,Upsell,Bundle,638723,3,Approval,AE-024,True,57,2025-08-21,
+OPP-2025-00042,Freiburg Digital AG,Enterprise,Benelux,Renewal,ERP,2979076,3,Qualification,AE-035,True,23,2025-07-04,0.24
+OPP-2025-00043,Nuremberg Logistics GmbH,Corporate,ANZ,Renewal,ERP,294796,3,Approval,AE-041,False,73,2025-08-02,0.35
+OPP-2025-00044,Charleroi Engineering NV,Enterprise,DACH,Net New,Analytics,3372752,2,Closed Won,AE-015,True,53,2025-06-28,
+OPP-2025-00045,Zurich Analytics AG,Corporate,DACH,Cross-sell,ERP,254699,3,Proposal,AE-016,True,162,2025-08-10,
+OPP-2025-00046,Zagreb Innovations,Corporate,Benelux,Upsell,ERP,313798,1,Proposal,AE-034,True,30,2025-07-23,
+OPP-2025-00047,Barcelona Tech,Corporate,Benelux,Restructure,ERP,178019,2,Approval,AE-033,False,124,2025-07-24,
+OPP-2025-00048,Aarau Digital AG,Corporate,DACH,Upsell,ERP,124934,3,Closed Won,AE-017,False,35,2025-09-12,
+OPP-2025-00049,Albany Government,Enterprise,DACH,Cross-sell,ERP,4118521,3,Closed Won,AE-009,True,73,2025-08-25,
+OPP-2025-00050,Augsburg Manufacturing GmbH,Enterprise,ANZ,Cross-sell,Analytics,2632374,3,Closed Won,AE-042,True,115,2025-08-01,
+OPP-2025-00051,Minneapolis Retail,Enterprise,DACH,Net New,ERP,1594354,2,Approval,AE-018,True,83,2025-06-18,
+OPP-2025-00052,Portland Green Tech,Corporate,ANZ,Cross-sell,Analytics,225787,1,Qualification,AE-042,True,122,2025-08-23,
+OPP-2025-00053,Essen Energy AG,Enterprise,DACH,Renewal,ERP,2983712,3,Approval,AE-005,True,10,2025-06-10,0.38
+OPP-2025-00054,Madrid Services SA,Enterprise,DACH,Renewal,HCM,3866620,3,Approval,AE-004,True,117,2025-05-26,0.5
+OPP-2025-00055,Nashville Healthcare,Enterprise,DACH,Upsell,Bundle,847437,1,Negotiation,AE-009,True,178,2025-07-14,
+OPP-2025-00056,Detroit Automotive,Corporate,North America,Renewal,ERP,378557,3,Closed Lost,AE-025,True,161,2025-08-24,0.59
+OPP-2025-00057,Helsinki Systems,Corporate,Benelux,Net New,Analytics,60872,1,Approval,AE-036,True,89,2025-06-30,
+OPP-2025-00058,Schmidt Pharma,Corporate,Benelux,Net New,ERP,76612,3,Closed Won,AE-036,True,114,2025-06-15,
+OPP-2025-00059,Karlsruhe Research GmbH,Corporate,North America,Renewal,HCM,195065,3,Negotiation,AE-023,True,111,2025-06-12,0.23
+OPP-2025-00060,Wuppertal Services AG,Corporate,DACH,Renewal,HCM,116786,1,Closed Won,AE-013,False,62,2025-07-27,0.6
+OPP-2025-00061,Berg Medizintechnik,Enterprise,North America,Renewal,Bundle,1265258,2,Qualification,AE-029,True,120,2025-06-30,0.47
+OPP-2025-00062,Wiesbaden Consulting AG,Corporate,North America,Renewal,HCM,256593,3,Negotiation,AE-028,True,109,2025-08-21,0.24
+OPP-2025-00063,Ghent Industrial NV,Corporate,DACH,Upsell,ERP,278340,1,Approval,AE-013,True,67,2025-07-09,
+OPP-2025-00064,Cologne Media GmbH,Enterprise,ANZ,Cross-sell,HCM,3681429,2,Qualification,AE-042,False,176,2025-09-01,
+OPP-2025-00065,Bochum Industrial GmbH,Corporate,North America,Renewal,Analytics,285428,3,Closed Won,AE-023,False,59,2025-08-10,0.54
+OPP-2025-00066,Vancouver Innovations,Corporate,DACH,Net New,Analytics,156400,2,Closed Won,AE-005,False,161,2025-08-15,
+OPP-2025-00067,Stockholm Data AB,Enterprise,North America,Upsell,HCM,2630908,2,Approval,AE-021,True,36,2025-07-01,
+OPP-2025-00068,Auckland Digital,Enterprise,DACH,Net New,Bundle,1942746,1,Closed Won,AE-005,True,94,2025-07-31,
+OPP-2025-00069,Geneva International,Enterprise,Nordics,Restructure,HCM,1277810,3,Closed Lost,AE-040,True,76,2025-08-28,
+OPP-2025-00070,Maastricht Financial,Enterprise,DACH,Restructure,HCM,2164324,3,Approval,AE-005,True,79,2025-06-22,
+OPP-2025-00071,Adler Automotive,Enterprise,Nordics,Renewal,Analytics,1734171,1,Qualification,AE-040,True,138,2025-06-09,0.91
+OPP-2025-00072,Meridex Group,Enterprise,North America,Net New,Analytics,1798136,3,Proposal,AE-024,True,60,2025-07-24,
+OPP-2025-00073,Hoffmann Logistics,Corporate,Benelux,Net New,Analytics,319339,2,Proposal,AE-035,True,17,2025-08-14,
+OPP-2025-00074,Hartford Insurance,Enterprise,North America,Net New,Bundle,1912516,1,Closed Lost,AE-019,True,78,2025-07-27,
+OPP-2025-00075,Warsaw Manufacturing,Corporate,DACH,Cross-sell,HCM,148102,3,Approval,AE-005,True,95,2025-08-18,
+OPP-2025-00076,Bonn Technology AG,Enterprise,DACH,Renewal,Analytics,3313301,3,Closed Won,AE-014,True,126,2025-08-11,0.32
+OPP-2025-00077,Nordic Retail Partners,Enterprise,DACH,Net New,HCM,3095246,2,Approval,AE-015,True,61,2025-09-11,
+OPP-2025-00078,Porto Engineering,Enterprise,DACH,Cross-sell,HCM,3075951,2,Qualification,AE-012,True,71,2025-06-18,
+OPP-2025-00079,Syracuse Education,Corporate,Nordics,Cross-sell,ERP,73063,2,Qualification,AE-037,True,86,2025-06-25,
+OPP-2025-00080,Dortmund Distribution AG,Corporate,DACH,Restructure,HCM,315564,1,Closed Won,AE-007,True,60,2025-07-06,
+OPP-2025-00081,Raleigh Research,Corporate,DACH,Renewal,ERP,100858,3,Approval,AE-018,True,47,2025-09-04,0.2
+OPP-2025-00082,Atlanta Logistics,Corporate,ANZ,Net New,HCM,32791,2,Closed Won,AE-041,False,5,2025-06-16,
+OPP-2025-00083,Leipzig Industrial GmbH,Corporate,Nordics,Renewal,Bundle,245704,2,Approval,AE-037,True,93,2025-07-29,0.43
+OPP-2025-00084,Krakow IT Services,Corporate,North America,Upsell,Analytics,47735,3,Approval,AE-029,True,118,2025-08-15,
+OPP-2025-00085,Winterthur Engineering GmbH,Corporate,DACH,Renewal,ERP,235563,2,Approval,AE-004,False,114,2025-06-03,0.94
+OPP-2025-00086,Seattle Technology,Corporate,Nordics,Cross-sell,HCM,91160,1,Approval,AE-039,False,153,2025-07-31,
+OPP-2025-00087,Stuttgart Engineering GmbH,Enterprise,North America,Renewal,HCM,3526486,3,Closed Won,AE-029,True,142,2025-08-25,0.58
+OPP-2025-00088,Basel Pharma Group,Enterprise,DACH,Restructure,ERP,3924923,1,Closed Won,AE-011,True,103,2025-07-17,
+OPP-2025-00089,Van der Berg Holdings,Corporate,DACH,Restructure,ERP,248747,2,Approval,AE-009,True,40,2025-08-20,
+OPP-2025-00090,Lausanne Digital SA,Corporate,North America,Upsell,HCM,69755,1,Closed Won,AE-020,False,96,2025-09-05,
+OPP-2025-00091,Baltimore Shipping,Corporate,DACH,Net New,Analytics,319433,2,Approval,AE-004,True,171,2025-08-29,
+OPP-2025-00092,Indianapolis Logistics,Corporate,Benelux,Net New,ERP,339787,2,Approval,AE-031,False,67,2025-07-28,
+OPP-2025-00093,St. Gallen Trade AG,Enterprise,DACH,Restructure,HCM,3753728,1,Approval,AE-018,True,72,2025-08-06,
+OPP-2025-00094,Cincinnati Pharma,Corporate,DACH,Renewal,ERP,319107,3,Qualification,AE-018,False,169,2025-09-08,0.48
+OPP-2025-00095,Melbourne Fabrications,Enterprise,DACH,Renewal,Bundle,3397777,2,Negotiation,AE-011,True,47,2025-06-12,0.41
+OPP-2025-00096,Elsinore Tech,Enterprise,North America,Cross-sell,HCM,795065,3,Proposal,AE-019,True,136,2025-06-21,
+OPP-2025-00097,Budapest Commerce,Enterprise,ANZ,Renewal,ERP,2102728,2,Negotiation,AE-042,True,84,2025-09-01,0.62
+OPP-2025-00098,Braun-Schwartz AG,Corporate,Benelux,Renewal,HCM,106568,1,Qualification,AE-035,True,21,2025-06-28,0.82
+OPP-2025-00099,Vienna Trade GmbH,Enterprise,North America,Cross-sell,ERP,1345744,1,Approval,AE-027,True,38,2025-07-08,
+OPP-2025-00100,New York Capital,Enterprise,North America,Upsell,HCM,1388021,2,Approval,AE-028,True,62,2025-07-31,
+OPP-2025-00101,Cleveland Manufacturing,Enterprise,Benelux,Cross-sell,HCM,1124921,2,Qualification,AE-035,True,53,2025-07-02,
+OPP-2025-00102,Birmingham Steel,Corporate,DACH,Renewal,HCM,158965,1,Qualification,AE-004,True,111,2025-06-16,0.17
+OPP-2025-00103,Bruges Digital NV,Corporate,DACH,Renewal,Analytics,317932,3,Qualification,AE-012,True,11,2025-07-19,0.11
+OPP-2025-00104,Calgary Energy,Enterprise,ANZ,Upsell,Analytics,2000548,2,Negotiation,AE-042,True,104,2025-05-27,
+OPP-2025-00105,San Francisco Cloud,Enterprise,DACH,Upsell,HCM,3560988,3,Closed Won,AE-015,True,93,2025-06-05,
+OPP-2025-00106,Liege Manufacturing NV,Enterprise,Nordics,Net New,HCM,1220543,2,Approval,AE-040,True,102,2025-07-03,
+OPP-2025-00107,Antwerp Logistics NV,Enterprise,DACH,Upsell,HCM,1596991,3,Approval,AE-003,True,30,2025-07-31,
+OPP-2025-00108,Namur Finance SA,Corporate,DACH,Restructure,ERP,209077,3,Negotiation,AE-005,False,38,2025-06-26,
+OPP-2025-00109,Reykjavik Systems,Corporate,DACH,Net New,Bundle,64506,1,Approval,AE-016,True,145,2025-08-30,
+OPP-2025-00110,Duisburg Shipping GmbH,Enterprise,DACH,Cross-sell,Bundle,1525982,1,Approval,AE-003,True,162,2025-07-02,
+OPP-2025-00111,Solothurn Manufacturing AG,Enterprise,Nordics,Upsell,Analytics,435602,2,Negotiation,AE-037,False,116,2025-05-29,
+OPP-2025-00112,Lisbon Digital,Enterprise,North America,Cross-sell,HCM,2903927,3,Closed Won,AE-020,True,130,2025-07-13,
+OPP-2025-00113,Rochester Optics,Enterprise,Benelux,Cross-sell,Analytics,2524971,3,Closed Won,AE-036,True,116,2025-09-05,
+OPP-2025-00114,Aachen Engineering GmbH,Corporate,DACH,Cross-sell,ERP,342197,2,Closed Lost,AE-005,True,116,2025-06-07,
+OPP-2025-00115,Oslo Energy Group,Enterprise,DACH,Net New,Bundle,553702,2,Approval,AE-006,True,33,2025-06-25,
+OPP-2025-00116,Buffalo Manufacturing,Enterprise,Nordics,Upsell,ERP,2398102,2,Approval,AE-038,True,73,2025-07-13,
+OPP-2025-00117,Ottawa Government,Enterprise,ANZ,Restructure,ERP,3047503,2,Qualification,AE-042,True,25,2025-08-04,
+OPP-2025-00118,Bratislava Group,Enterprise,DACH,Renewal,ERP,1256946,3,Negotiation,AE-005,True,150,2025-08-17,0.18
+OPP-2025-00119,Kessler Manufacturing,Enterprise,North America,Restructure,ERP,2951692,2,Proposal,AE-025,True,22,2025-07-03,
+OPP-2025-00120,Prague Solutions,Enterprise,North America,Net New,Bundle,3520470,2,Closed Won,AE-021,True,176,2025-07-31,
